@@ -1,0 +1,23 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /bionia/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /bionia/index.php [L]
+RedirectMatch permanent /биониа-арония /bionia-aronia
+RedirectMatch permanent /биониа-бирена-мая-на-люспи /bionia-birena-maya-na-liuspi
+RedirectMatch permanent /за-клиенти-на-едро /za-klienti-na-edro
+RedirectMatch permanent /за-нас /za-nas
+RedirectMatch permanent /контакти /kontakti
+RedirectMatch permanent /къде-се-продава-биониа-бирена-мая /kude-se-prodava-bionia-birena-maya
+RedirectMatch permanent /рецепти /recepti
+RedirectMatch permanent /рецепти-с-арония /recepti-s-aronia
+RedirectMatch permanent /рецепти-с-рожков /recepti-s-rojkov
+RedirectMatch permanent /рецепти-с-хранителна-мая /recepti-s-hranitelna-maya
+RedirectMatch permanent recepti/рецепти(.*) http://bionia.bg/bionia/recepti/recepti-s-birena-maya$1
+RedirectMatch permanent /тест /recepti-sus-shipka
+RedirectMatch permanent /биониа-хранителна-мая /bionia-hranitelna-maya
+RedirectMatch permanent /биониа-шипка /bionia-shipka
+</IfModule>
+

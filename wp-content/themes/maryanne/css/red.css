@@ -1,0 +1,37 @@
+/* Color scheme Red
+----------------------------------------------- */
+body #headline-wrapper,
+body #wrapper-footer,
+body input[type="submit"],
+body input[type="reset"],
+body #searchform .searchform-wrapper .send {
+  background-color: #db5533;        
+}
+body a,
+body .post-entry .post-entry-headline a,
+body .grid-entry .grid-entry-headline a,
+body .sidebar-widget a {
+  color: #db5533;        
+}
+body .footer-signature,
+body input[type="submit"]:hover,
+body input[type="reset"]:hover,
+body #searchform .send:hover {
+  background-color: #b63817;                       
+}
+body #headline-wrapper,
+body #wrapper-footer,
+body .footer-signature {
+  border-color: #902002;                       
+}
+body .site-title a,
+#wrapper #left-sidebar .menu-box .current-menu-item > a,
+#wrapper #left-sidebar .menu-box .current-menu-ancestor > a,
+#wrapper #left-sidebar .menu-box .current_page_item > a,
+#wrapper #left-sidebar .menu-box .current-page-ancestor > a {
+  color: #ffb6a3;                   
+}
+body #footer a,
+body .footer-signature .footer-signature-content a {
+  color: #ffdbd1;               
+}

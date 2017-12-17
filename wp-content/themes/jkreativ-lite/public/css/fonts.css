@@ -1,0 +1,205 @@
+@font-face {
+	font-family: 'jkreativ';
+	src:url('../fonts/default/jkreativ.eot');
+	src:url('../fonts/default/jkreativ.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/default/jkreativ.ttf') format('truetype'),
+		url('../fonts/default/jkreativ.woff') format('woff'),
+		url('../fonts/default/jkreativ.svg#jkreativ') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="default-"], [class*=" default-"] {
+	font-family: 'jkreativ';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.default-pushpin:before {
+	content: "\e600";
+}
+.default-pin:before {
+	content: "\e601";
+}
+.default-search:before {
+	content: "\f002";
+}
+.default-facebook:before {
+	content: "\e000";
+}
+.default-twitter:before {
+	content: "\e001";
+}
+.default-vimeo:before {
+	content: "\e002";
+}
+.default-tumblr:before {
+	content: "\e003";
+}
+.default-picassa:before {
+	content: "\e004";
+}
+.default-skype:before {
+	content: "\e005";
+}
+.default-angle-left:before {
+	content: "\f104";
+}
+.default-expand:before {
+	content: "\e008";
+}
+.default-contract:before {
+	content: "\e009";
+}
+.default-flickr:before {
+	content: "\e00a";
+}
+.default-github:before {
+	content: "\e00b";
+}
+.default-feed:before {
+	content: "\e00c";
+}
+.default-google:before {
+	content: "\e00d";
+}
+.default-info:before {
+	content: "\e00e";
+}
+.default-reorder:before {
+	content: "\f0c9";
+}
+.default-long-arrow-right:before {
+	content: "\f178";
+}
+.default-long-arrow-left:before {
+	content: "\f177";
+}
+.default-lastfm:before {
+	content: "\e013";
+}
+.default-soundcloud:before {
+	content: "\e014";
+}
+.default-windows8:before {
+	content: "\e015";
+}
+.default-steam:before {
+	content: "\e016";
+}
+.default-share-2:before {
+	content: "\e017";
+}
+.default-info-2:before {
+	content: "\e018";
+}
+.default-share-3:before {
+	content: "\e019";
+}
+.default-uniF004:before {
+	content: "\f004";
+}
+.default-star-empty:before {
+	content: "\f006";
+}
+.default-left-quote:before {
+	content: "\e01a";
+}
+.default-compass:before {
+	content: "\e01e";
+}
+.default-compass-2:before {
+	content: "\e01f";
+}
+.default-add:before {
+	content: "\e020";
+}
+.default-minus:before {
+	content: "\e021";
+}
+.default-error:before {
+	content: "\e022";
+}
+.default-checked:before {
+	content: "\e023";
+}
+.default-cancel:before {
+	content: "\e024";
+}
+.default-cancel-2:before {
+	content: "\e025";
+}
+.default-cart:before {
+	content: "\e026";
+}
+.default-list:before {
+	content: "\e006";
+}
+.default-ellipsis:before {
+	content: "\e007";
+}
+.default-remove:before {
+	content: "\f00d";
+}
+.default-share:before {
+	content: "\e00f";
+}
+.default-dribbble:before {
+	content: "\e010";
+}
+.default-github-2:before {
+	content: "\e011";
+}
+.default-stackoverflow:before {
+	content: "\e012";
+}
+.default-right-quote:before {
+	content: "\e01b";
+}
+.default-envelope:before {
+	content: "\e01c";
+}
+.default-angle-down:before {
+	content: "\f107";
+}
+.default-location:before {
+	content: "\e01d";
+}
+.default-key:before {
+	content: "\e037";
+}
+.default-enter:before {
+	content: "\e027";
+}
+.default-locked:before {
+	content: "\e02e";
+}
+.default-star:before {
+	content: "\e028";
+}
+.default-basket:before {
+	content: "\e056";
+}
+.default-play:before {
+	content: "\e02b";
+}
+.default-equalizer:before {
+	content: "\e02a";
+}
+.default-star-2:before {
+	content: "\e029";
+}
+.default-pencil:before {
+	content: "\e602";
+}
+.default-user:before {
+	content: "\e603";
+}

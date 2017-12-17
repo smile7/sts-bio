@@ -1,0 +1,251 @@
+/*
+Theme Name: MaryAnne
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+*/
+
+p, ul, ol, li, dl, address {
+  text-align: right;
+}
+ul {
+  margin-left: 0;
+  margin-right: 16px;   
+}
+ol {
+	margin-left: 0;
+  margin-right: 20px;
+}
+table, td, th {
+  text-align: right;
+}
+blockquote, q { 
+  border-left: none;
+  border-right: 1px solid #e3e3e3;
+  padding-left: 0;
+  padding-right: 10px;
+}
+
+
+/* basic structure
+-------------------------------------------------------------- */
+
+#container {
+  padding: 0 250px 0 0;      
+}
+#left-sidebar {
+  left: auto;
+  right: 0;             
+}
+#header,
+#headline-wrapper,
+#breadcrumb-navigation,
+#main-content,
+#footer {
+  float: right;        
+} 
+#content {
+  float: right;
+  margin: 0 30px 10px 0;
+  width: 590px;         
+}
+#sidebar {
+  float: left;
+  margin: 0 30px 10px 0;         
+}
+.scroll-top {
+  left: 10px;
+  right: auto;            
+}
+.sidebar-background {
+  left: auto;
+  right: 0;                    
+}
+
+
+/* left sidebar
+-------------------------------------------------------------- */
+
+.site-headline-box {
+  float: right;               
+}
+
+
+/* menu
+-------------------------------------------------------------- */
+
+.menu-box {
+  float: right;         
+}
+.menu-box ul {
+  float: right;
+}
+.menu-box ul a,
+.menu-box ul a:visited {
+  padding: 0 10px 0 0;
+}
+#wrapper .menu-box ul ul a,
+#wrapper .menu-box ul ul a:visited {
+  padding: 0 10px 0 0;
+  text-align: right;
+}
+.menu-box ul ul {
+  left: auto;
+  right: 210px;
+}
+.menu-box ul ul ul {
+  left: auto;
+  right: 210px;
+}
+#wrapper .menu-box .current-menu-item > a,
+#wrapper .menu-box .current-menu-ancestor > a,
+#wrapper .menu-box .current_page_item > a,
+#wrapper .menu-box .current-page-ancestor > a {
+  background-image: url(images/arrow-right.png);
+  background-position: left center;
+}
+
+
+/* main content
+-------------------------------------------------------------- */
+
+.content-headline,
+#breadcrumb-navigation p {
+  margin: 0 30px 0 0;                                 
+}
+.post-info .post-info-category,
+.post-info .post-info-tags {
+  background-position: right top;             
+}
+.post-info span { 
+  padding: 0 22px 0 0;
+}
+#main-content .post-info .post-category,
+#main-content .post-info .post-tags {
+  float: right;                      
+}
+#main-content .post-info .post-tags {
+  padding-left: 0;
+  padding-right: 5%;
+  text-align: left;                           
+}
+#main-content .nav-previous {
+  float: right;                            
+}
+#main-content .nav-next {
+  float: left;
+  text-align: left;                            
+}
+
+/* post entry - grid */
+.grid-entry .grid-entry-inner {
+  margin: 0 0 0 15px;                            
+}
+.grid-entry .grid-category {
+  background: right top no-repeat url(images/icon-category.png);
+  padding-left: 0;
+  padding-right: 22px;                
+}
+.grid-entry .grid-tags {
+  background: right top no-repeat url(images/icon-tag.png);
+  padding-left: 0;
+  padding-right: 22px;                
+}
+
+
+/* sidebar
+-------------------------------------------------------------- */
+
+.sidebar-widget ul li {
+  background: right top no-repeat url(images/sidebar-li.png);
+  padding-left: 0;
+  padding-right: 14px;                       
+} 
+
+
+/* footer
+-------------------------------------------------------------- */  
+
+#footer {
+  margin: 0 30px 0 0;       
+}
+.footer-widget-area {
+  float: right;
+  margin-left: 30px; 
+  margin-right: 0;               
+}
+#footer .footer-widget-area-3 {
+  margin-left: 0;                              
+}
+
+
+/* default widgets
+-------------------------------------------------------------- */
+
+#wp-calendar #prev {
+  text-align: right;                   
+}
+#wp-calendar #next {
+  text-align: left;                   
+}
+
+
+/* form fields
+-------------------------------------------------------------- */
+
+#searchform .searchform-wrapper #s {
+  padding: 5px 3% 5px 0;
+  left: auto;
+  right: 0;              
+}
+#searchform .searchform-wrapper .send {
+  left: 0;
+  right: auto;
+}
+
+
+/* comments area
+-------------------------------------------------------------- */
+
+#comments ol {
+  margin-left: auto;
+  margin-right: 0;             
+}
+#comments .avatar,
+#comments .fn {
+  float: right;
+  margin: 0 0 0 6px
+}
+#comments time,
+#comments .edit-link {
+  float: left;             
+}
+
+
+/* media queries
+-------------------------------------------------------------- */
+
+@media screen and (max-width: 1150px) {
+  #wrapper #content {
+    margin: 0 5% 10px 0;         
+}
+  #wrapper #sidebar {
+    float: right;
+    margin-left: 0;
+    margin-right: 5%;        
+}
+  #wrapper .content-headline,
+  #wrapper #breadcrumb-navigation p,
+  #wrapper #footer,
+  #wrapper .footer-signature .footer-signature-content {
+    margin: 0 5% 0 0;                             
+}
+}
+
+@media screen and (max-width: 640px) {
+  #wrapper #left-sidebar {
+    right: auto;             
+}
+  .js .selectnav {
+    float: right;
+    margin: 0 5% 0 0;
+} 
+}

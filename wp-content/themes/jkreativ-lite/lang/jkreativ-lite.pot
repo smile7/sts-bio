@@ -1,0 +1,1738 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jkreativ Lite v1.0\n"
+"POT-Creation-Date: 2013-12-29 15:44+0800\n"
+"PO-Revision-Date: 2014-02-14 11:59+0800\n"
+"Last-Translator: Agung <agungbayuiswara@gmail.com>\n"
+"Language-Team: Jegtheme <support@jegtheme.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"This post is password protected. Enter the password to view any comments."
+
+#: comments.php:18
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:20 admin/option/option.php:49
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:22
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:42
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Required fields are marked %s"
+
+#: comments.php:46
+msgid "Comment"
+msgstr "Comment"
+
+#: comments.php:47
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "You must be <a href=\"%s\">logged in</a> to post a comment."
+
+#: comments.php:48
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+
+#: comments.php:49
+msgid "Your email address will not be published"
+msgstr "Your email address will not be published"
+
+#: comments.php:50
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+
+#: comments.php:53
+msgid "Leave a Reply"
+msgstr "Leave a Reply"
+
+#: comments.php:54
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#: comments.php:55
+msgid "Cancel reply"
+msgstr "Cancel reply"
+
+#: comments.php:56
+msgid "Post Comment"
+msgstr "Post Comment"
+
+#: comments.php:92
+msgid "Please login to comment"
+msgstr "Please login to comment"
+
+#: footer.php:12
+msgid "Notice"
+msgstr "Notice"
+
+#: footer.php:20
+msgid "Ok"
+msgstr "Ok"
+
+#: index.php:18 index.php:19
+msgid "Blog Sort &amp; Filter"
+msgstr "Blog Sort &amp; Filter"
+
+#: index.php:24
+msgid "Sort blog by :"
+msgstr "Sort blog by :"
+
+#: index.php:26
+msgid "Popularity"
+msgstr "Popularity"
+
+#: index.php:27
+msgid "Release Date"
+msgstr "Release Date"
+
+#: index.php:30
+msgid "Filter blog category :"
+msgstr "Filter blog category :"
+
+#: index.php:32
+msgid "All Category :"
+msgstr "All Category :"
+
+#: index.php:121 template/ajax-content.php:62
+msgid "Post Not Found"
+msgstr "Post Not Found"
+
+#: searchform.php:2
+msgid "Type and Enter to Search"
+msgstr "Type and Enter to Search"
+
+#: single.php:55
+msgid "Pages:"
+msgstr "Pages:"
+
+#: admin/option/main.php:4
+msgid "Jkreativ"
+msgstr "Jkreativ"
+
+#: admin/option/main.php:8
+msgid "General Setting"
+msgstr "General Setting"
+
+#: admin/option/main.php:13
+msgid "General Option"
+msgstr "General Option"
+
+#: admin/option/main.php:19
+msgid "Right mouse click behaviour"
+msgstr "Right mouse click behaviour"
+
+#: admin/option/main.php:21
+msgid "You can disable mouse click right here and give apropriate message"
+msgstr "You can disable mouse click right here and give apropriate message"
+
+#: admin/option/main.php:26
+msgid "Disable Right Mouse click"
+msgstr "Disable Right Mouse click"
+
+#: admin/option/main.php:27
+msgid "when user right click your website, they will get bellow message"
+msgstr "when user right click your website, they will get bellow message"
+
+#: admin/option/main.php:33 admin/option/option.php:67
+msgid "Textarea"
+msgstr "Textarea"
+
+#: admin/option/main.php:34
+msgid "Message that will prompt to this mouse click"
+msgstr "Message that will prompt to this mouse click"
+
+#: admin/option/main.php:42
+msgid "Enable Page Loader"
+msgstr "Enable Page Loader"
+
+#: admin/option/main.php:43
+msgid "Show circle page loader when load every page."
+msgstr "Show circle page loader when load every page."
+
+#: admin/option/main.php:50
+msgid "Hide Page Top Meta"
+msgstr "Hide Page Top Meta"
+
+#: admin/option/main.php:51
+msgid "this meta can contain date, author, and other"
+msgstr "this meta can contain date, author, and other"
+
+#: admin/option/main.php:57
+msgid "Hide Page Bottom Meta"
+msgstr "Hide Page Bottom Meta"
+
+#: admin/option/main.php:58
+msgid "this meta can contain category, comment number, tag, and other"
+msgstr "this meta can contain category, comment number, tag, and other"
+
+#: admin/option/main.php:65
+msgid "Check this option to hide sort & filter Head"
+msgstr "Check this option to hide sort & filter Head"
+
+#: admin/option/main.php:72
+msgid "Filter Content"
+msgstr "Filter Content"
+
+#: admin/option/main.php:73
+msgid ""
+"If in any case you want to show only several blog content, you can use this "
+"option"
+msgstr ""
+"If in any case you want to show only several blog content, you can use this "
+"option"
+
+#: admin/option/main.php:79
+msgid "Filtering"
+msgstr "Filtering"
+
+#: admin/option/main.php:88
+msgid "Filter By"
+msgstr "Filter By"
+
+#: admin/option/main.php:89
+msgid "Different type will show different type of field"
+msgstr "Different type will show different type of field"
+
+#: admin/option/main.php:93 admin/option/main.php:105
+msgid "Category"
+msgstr "Category"
+
+#: admin/option/main.php:97 admin/option/option.php:777
+msgid "Tags"
+msgstr "Tags"
+
+#: admin/option/main.php:106
+msgid "Include this category"
+msgstr "Include this category"
+
+#: admin/option/main.php:123
+msgid "Include Tag(s)"
+msgstr "Include Tag(s)"
+
+#: admin/option/main.php:124
+msgid "Tag(s) to filter."
+msgstr "Tag(s) to filter."
+
+#: admin/option/main.php:142
+msgid "Filter Rule"
+msgstr "Filter Rule"
+
+#: admin/option/main.php:143
+msgid "filter content by this rule"
+msgstr "filter content by this rule"
+
+#: admin/option/main.php:148
+msgid "Include"
+msgstr "Include"
+
+#: admin/option/main.php:152
+msgid "Exclude"
+msgstr "Exclude"
+
+#: admin/option/main.php:164
+msgid "Website copyright"
+msgstr "Website copyright"
+
+#: admin/option/main.php:170
+msgid "Social Icon"
+msgstr "Social Icon"
+
+#: admin/option/main.php:176
+msgid "Insert URL of your social profile"
+msgstr "Insert URL of your social profile"
+
+#: admin/option/main.php:178
+msgid "Social profile will only shown if you are adding url inside this page"
+msgstr "Social profile will only shown if you are adding url inside this page"
+
+#: admin/option/main.php:183
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/option/main.php:188
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/option/main.php:193
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: admin/option/main.php:198
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: admin/option/main.php:203
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/option/main.php:208
+msgid "Github"
+msgstr "Github"
+
+#: admin/option/main.php:213
+msgid "Flickr"
+msgstr "Flickr"
+
+#: admin/option/main.php:218
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: admin/option/main.php:223
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: admin/option/main.php:228
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: admin/option/main.php:233
+msgid "Fastfm"
+msgstr "Fastfm"
+
+#: admin/option/main.php:238
+msgid "Behance"
+msgstr "Behance"
+
+#: admin/option/main.php:243
+msgid "Instagram"
+msgstr "Instagram"
+
+#: admin/option/main.php:248
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: admin/option/main.php:255
+msgid "Website Logo"
+msgstr "Website Logo"
+
+#: admin/option/main.php:261
+msgid "Side Navigation Logo"
+msgstr "Side Navigation Logo"
+
+#: admin/option/main.php:263
+msgid "If you are using side navigation, you need to fill this option"
+msgstr "If you are using side navigation, you need to fill this option"
+
+#: admin/option/main.php:268
+msgid "Side Navigation logo"
+msgstr "Side Navigation logo"
+
+#: admin/option/main.php:269
+msgid "if you are using side navigation, you should upload your image"
+msgstr "if you are using side navigation, you should upload your image"
+
+#: admin/option/main.php:275
+msgid "Retina Side navigation logo"
+msgstr "Retina Side navigation logo"
+
+#: admin/option/main.php:276 admin/option/main.php:319
+#: admin/option/main.php:341
+msgid ""
+"Upload your logo for retina display. It has have the same name and doubled "
+"the sized then the regular. The name also need to contain the chars @2x at "
+"the end. Ex. 'mylogo.png' becomes 'mylogo@2x.png'"
+msgstr ""
+"Upload your logo for retina display. It has have the same name and doubled "
+"the sized then the regular. The name also need to contain the chars @2x at "
+"the end. Ex. 'mylogo.png' becomes 'mylogo@2x.png'"
+
+#: admin/option/main.php:283
+msgid "Top padding for logo"
+msgstr "Top padding for logo"
+
+#: admin/option/main.php:284
+msgid "logo top padding, giving some space on top of side navigation logo"
+msgstr "logo top padding, giving some space on top of side navigation logo"
+
+#: admin/option/main.php:293
+msgid "Bottom padding for logo"
+msgstr "Bottom padding for logo"
+
+#: admin/option/main.php:294
+msgid ""
+"logo bottom padding, giving some space on bottom of side navigation logo"
+msgstr ""
+"logo bottom padding, giving some space on bottom of side navigation logo"
+
+#: admin/option/main.php:305
+msgid "Mobile responsive Logo"
+msgstr "Mobile responsive Logo"
+
+#: admin/option/main.php:307
+msgid "Logo for mobile responsive menu"
+msgstr "Logo for mobile responsive menu"
+
+#: admin/option/main.php:312
+msgid "Mobile responsive logo"
+msgstr "Mobile responsive logo"
+
+#: admin/option/main.php:313 admin/option/main.php:334
+msgid "upload your logo for mobile responsive menu"
+msgstr "upload your logo for mobile responsive menu"
+
+#: admin/option/main.php:318
+msgid "Retina Mobile responsive logo"
+msgstr "Retina Mobile responsive logo"
+
+#: admin/option/main.php:326
+msgid "Loader Logo"
+msgstr "Loader Logo"
+
+#: admin/option/main.php:328
+msgid "if you are using circle loader, please insert your image right here"
+msgstr "if you are using circle loader, please insert your image right here"
+
+#: admin/option/main.php:333
+msgid "Loader Logo ( 270x270 px )"
+msgstr "Loader Logo ( 270x270 px )"
+
+#: admin/option/main.php:340
+msgid "Retina Loader Logo ( 540x540 px )"
+msgstr "Retina Loader Logo ( 540x540 px )"
+
+#: admin/option/main.php:350
+msgid "Navigation Setup"
+msgstr "Navigation Setup"
+
+#: admin/option/main.php:357
+msgid "Setup Navigation with ability to override it"
+msgstr "Setup Navigation with ability to override it"
+
+#: admin/option/main.php:358
+msgid ""
+"You can override default navigation option on every page, you can also have "
+"option to override search and archieve (including with date, author, "
+"category, tag navigation)"
+msgstr ""
+"You can override default navigation option on every page, you can also have "
+"option to override search and archieve (including with date, author, "
+"category, tag navigation)"
+
+#: admin/option/main.php:364
+msgid "Default Navigation Setup"
+msgstr "Default Navigation Setup"
+
+#: admin/option/main.php:366
+msgid "default navigation setup"
+msgstr "default navigation setup"
+
+#: admin/option/main.php:371
+msgid "Default position"
+msgstr "Default position"
+
+#: admin/option/main.php:372
+msgid "you can also override this option on every page"
+msgstr "you can also override this option on every page"
+
+#: admin/option/main.php:377 admin/option/main.php:436
+#: admin/option/main.php:495 admin/option/main.php:554
+msgid "Side Navigation"
+msgstr "Side Navigation"
+
+#: admin/option/main.php:381 admin/option/main.php:440
+#: admin/option/main.php:499 admin/option/main.php:558
+msgid "Top Navigation"
+msgstr "Top Navigation"
+
+#: admin/option/main.php:388 admin/option/main.php:447
+#: admin/option/main.php:506 admin/option/main.php:565
+msgid "Collapse Navigator"
+msgstr "Collapse Navigator"
+
+#: admin/option/main.php:389 admin/option/main.php:448
+#: admin/option/main.php:507 admin/option/main.php:566
+msgid "Enable this option to collapse navigator by default"
+msgstr "Enable this option to collapse navigator by default"
+
+#: admin/option/main.php:399 admin/option/main.php:458
+#: admin/option/main.php:517 admin/option/main.php:576
+msgid "Show top menu navigator"
+msgstr "Show top menu navigator"
+
+#: admin/option/main.php:400 admin/option/main.php:459
+#: admin/option/main.php:518 admin/option/main.php:577
+msgid ""
+"Show top menu navigator that will hold searchicon, shopping cart, and other "
+"element"
+msgstr ""
+"Show top menu navigator that will hold searchicon, shopping cart, and other "
+"element"
+
+#: admin/option/main.php:413
+msgid "Override Search navigation option"
+msgstr "Override Search navigation option"
+
+#: admin/option/main.php:414
+msgid "Turn on this option to override default option for search page"
+msgstr "Turn on this option to override default option for search page"
+
+#: admin/option/main.php:420
+msgid "Search Navigation Setup"
+msgstr "Search Navigation Setup"
+
+#: admin/option/main.php:422
+msgid "Navigation for search"
+msgstr "Navigation for search"
+
+#: admin/option/main.php:431
+msgid "Search navigation position"
+msgstr "Search navigation position"
+
+#: admin/option/main.php:472
+msgid "Override Archive navigation option"
+msgstr "Override Archive navigation option"
+
+#: admin/option/main.php:473
+msgid "Turn on this option to override default option for archive page"
+msgstr "Turn on this option to override default option for archive page"
+
+#: admin/option/main.php:479
+msgid "Archive Navigation Setup"
+msgstr "Archive Navigation Setup"
+
+#: admin/option/main.php:481
+msgid "Navigation for archive"
+msgstr "Navigation for archive"
+
+#: admin/option/main.php:490
+msgid "Archive navigation position"
+msgstr "Archive navigation position"
+
+#: admin/option/main.php:531
+msgid "Override 404 navigation option"
+msgstr "Override 404 navigation option"
+
+#: admin/option/main.php:532
+msgid "Turn on this option to override default option for 404 page"
+msgstr "Turn on this option to override default option for 404 page"
+
+#: admin/option/main.php:538
+msgid "Notfound Navigation Setup"
+msgstr "Notfound Navigation Setup"
+
+#: admin/option/main.php:540
+msgid "Navigation for notfound"
+msgstr "Navigation for notfound"
+
+#: admin/option/main.php:549
+msgid "Notfound navigation position"
+msgstr "Notfound navigation position"
+
+#: admin/option/main.php:705
+msgid "Website Background"
+msgstr "Website Background"
+
+#: admin/option/main.php:711
+msgid "Default Website Background"
+msgstr "Default Website Background"
+
+#: admin/option/main.php:713
+msgid "Setup default website background"
+msgstr "Setup default website background"
+
+#: admin/option/main.php:719
+msgid "Website background color"
+msgstr "Website background color"
+
+#: admin/option/main.php:720
+msgid "Website background Color"
+msgstr "Website background Color"
+
+#: admin/option/main.php:728
+msgid "Website Image Background"
+msgstr "Website Image Background"
+
+#: admin/option/main.php:729 admin/option/main.php:846
+#: admin/option/main.php:962 admin/option/main.php:1080
+msgid "Upload your website image background"
+msgstr "Upload your website image background"
+
+#: admin/option/main.php:736
+msgid "Website image background vertical position"
+msgstr "Website image background vertical position"
+
+#: admin/option/main.php:740 admin/option/main.php:856
+#: admin/option/main.php:972 admin/option/main.php:1090
+msgid "Left"
+msgstr "Left"
+
+#: admin/option/main.php:744 admin/option/main.php:767
+#: admin/option/main.php:860 admin/option/main.php:883
+#: admin/option/main.php:976 admin/option/main.php:999
+#: admin/option/main.php:1094 admin/option/main.php:1117
+msgid "Center"
+msgstr "Center"
+
+#: admin/option/main.php:748 admin/option/main.php:864
+#: admin/option/main.php:980 admin/option/main.php:1098
+msgid "right"
+msgstr "right"
+
+#: admin/option/main.php:759
+msgid "Website image background horizontal position"
+msgstr "Website image background horizontal position"
+
+#: admin/option/main.php:763 admin/option/main.php:879
+#: admin/option/main.php:995 admin/option/main.php:1113
+msgid "top"
+msgstr "top"
+
+#: admin/option/main.php:771 admin/option/main.php:887
+#: admin/option/main.php:1003 admin/option/main.php:1121
+msgid "bottom"
+msgstr "bottom"
+
+#: admin/option/main.php:782
+msgid "Website image background repeat"
+msgstr "Website image background repeat"
+
+#: admin/option/main.php:786 admin/option/main.php:902
+#: admin/option/main.php:1018 admin/option/main.php:1136
+msgid "Repeat Horizontal"
+msgstr "Repeat Horizontal"
+
+#: admin/option/main.php:790 admin/option/main.php:906
+#: admin/option/main.php:1022 admin/option/main.php:1140
+msgid "Repeat Vertical"
+msgstr "Repeat Vertical"
+
+#: admin/option/main.php:794 admin/option/main.php:910
+#: admin/option/main.php:1026 admin/option/main.php:1144
+msgid "Repeat Image"
+msgstr "Repeat Image"
+
+#: admin/option/main.php:798 admin/option/main.php:914
+#: admin/option/main.php:1030 admin/option/main.php:1148
+msgid "No Repeat"
+msgstr "No Repeat"
+
+#: admin/option/main.php:809 admin/option/main.php:925
+#: admin/option/main.php:1041 admin/option/main.php:1159
+msgid "Enable fullscreen background"
+msgstr "Enable fullscreen background"
+
+#: admin/option/main.php:818
+msgid "Override Search Background"
+msgstr "Override Search Background"
+
+#: admin/option/main.php:819 admin/option/main.php:936
+#: admin/option/main.php:1052
+msgid "Turn on this option to override default background"
+msgstr "Turn on this option to override default background"
+
+#: admin/option/main.php:825
+msgid "Search Background"
+msgstr "Search Background"
+
+#: admin/option/main.php:836
+msgid "Search background color"
+msgstr "Search background color"
+
+#: admin/option/main.php:837 admin/option/main.php:953
+msgid "Search background Color"
+msgstr "Search background Color"
+
+#: admin/option/main.php:845
+msgid "Search Image Background"
+msgstr "Search Image Background"
+
+#: admin/option/main.php:852
+msgid "Search image background vertical position"
+msgstr "Search image background vertical position"
+
+#: admin/option/main.php:875
+msgid "Search image background horizontal position"
+msgstr "Search image background horizontal position"
+
+#: admin/option/main.php:898
+msgid "Search image background repeat"
+msgstr "Search image background repeat"
+
+#: admin/option/main.php:935
+msgid "Override Archieve Background"
+msgstr "Override Archieve Background"
+
+#: admin/option/main.php:942
+msgid "Archive Background"
+msgstr "Archive Background"
+
+#: admin/option/main.php:952
+msgid "Archive background color"
+msgstr "Archive background color"
+
+#: admin/option/main.php:961
+msgid "Archive Image Background"
+msgstr "Archive Image Background"
+
+#: admin/option/main.php:968
+msgid "Archive image background vertical position"
+msgstr "Archive image background vertical position"
+
+#: admin/option/main.php:991
+msgid "Archive image background horizontal position"
+msgstr "Archive image background horizontal position"
+
+#: admin/option/main.php:1014
+msgid "Archive image background repeat"
+msgstr "Archive image background repeat"
+
+#: admin/option/main.php:1051
+msgid "Override 404 Background"
+msgstr "Override 404 Background"
+
+#: admin/option/main.php:1059
+msgid "Notfound Page Background"
+msgstr "Notfound Page Background"
+
+#: admin/option/main.php:1070
+msgid "Notfound Page background color"
+msgstr "Notfound Page background color"
+
+#: admin/option/main.php:1071
+msgid "background Color"
+msgstr "background Color"
+
+#: admin/option/main.php:1079
+msgid "Notfound Page Image Background"
+msgstr "Notfound Page Image Background"
+
+#: admin/option/main.php:1086
+msgid "Notfound Page image background vertical position"
+msgstr "Notfound Page image background vertical position"
+
+#: admin/option/main.php:1109
+msgid "Notfound Page image background horizontal position"
+msgstr "Notfound Page image background horizontal position"
+
+#: admin/option/main.php:1132
+msgid "Notfound Page image background repeat"
+msgstr "Notfound Page image background repeat"
+
+#: admin/option/main.php:1171
+msgid "Additional Page Template"
+msgstr "Additional Page Template"
+
+#: admin/option/main.php:1177
+msgid "Select page template for additional static page"
+msgstr "Select page template for additional static page"
+
+#: admin/option/main.php:1179
+msgid "select default page template for each section"
+msgstr "select default page template for each section"
+
+#: admin/option/main.php:1184
+msgid "Search Template"
+msgstr "Search Template"
+
+#: admin/option/main.php:1188 admin/option/main.php:1212
+msgid "Normal Layout"
+msgstr "Normal Layout"
+
+#: admin/option/main.php:1192 admin/option/main.php:1216
+msgid "Masonry Layout"
+msgstr "Masonry Layout"
+
+#: admin/option/main.php:1196 admin/option/main.php:1220
+msgid "Extrawidth Layout"
+msgstr "Extrawidth Layout"
+
+#: admin/option/main.php:1207
+msgid "this will include date archive, author post, category, and tag"
+msgstr "this will include date archive, author post, category, and tag"
+
+#: admin/option/main.php:1208
+msgid "Archive Template"
+msgstr "Archive Template"
+
+#: admin/option/option.php:4
+msgid "Vafpress Option Panel"
+msgstr "Vafpress Option Panel"
+
+#: admin/option/option.php:8
+msgid "Standard Controls"
+msgstr "Standard Controls"
+
+#: admin/option/option.php:13
+msgid "Regular"
+msgstr "Regular"
+
+#: admin/option/option.php:19
+msgid "TextBox"
+msgstr "TextBox"
+
+#: admin/option/option.php:21
+msgid "TextBox and TextArea Showcase"
+msgstr "TextBox and TextArea Showcase"
+
+#: admin/option/option.php:26
+msgid "Alphabet"
+msgstr "Alphabet"
+
+#: admin/option/option.php:27
+msgid "Only alphabets allowed here."
+msgstr "Only alphabets allowed here."
+
+#: admin/option/option.php:33
+msgid "Alphanumeric"
+msgstr "Alphanumeric"
+
+#: admin/option/option.php:34
+msgid "Only alphabets and numbers allowed here."
+msgstr "Only alphabets and numbers allowed here."
+
+#: admin/option/option.php:41
+msgid "Numeric"
+msgstr "Numeric"
+
+#: admin/option/option.php:42
+msgid "Only numbers allowed here."
+msgstr "Only numbers allowed here."
+
+#: admin/option/option.php:50
+msgid "Only valid email allowed here."
+msgstr "Only valid email allowed here."
+
+#: admin/option/option.php:57
+msgid "URL"
+msgstr "URL"
+
+#: admin/option/option.php:58
+msgid "Only valid URL allowed here."
+msgstr "Only valid URL allowed here."
+
+#: admin/option/option.php:68
+msgid "Everytime you need long text.."
+msgstr "Everytime you need long text.."
+
+#: admin/option/option.php:74
+msgid "Multiple Choices"
+msgstr "Multiple Choices"
+
+#: admin/option/option.php:75
+msgid "Controls with multiple specified options."
+msgstr "Controls with multiple specified options."
+
+#: admin/option/option.php:80
+msgid "CheckBox with Min and Max Selected Validation"
+msgstr "CheckBox with Min and Max Selected Validation"
+
+#: admin/option/option.php:81
+msgid ""
+"Minimum selected of 2 items and maximum selected of 2 items, in other words "
+"need to choose exactly 2 items."
+msgstr ""
+"Minimum selected of 2 items and maximum selected of 2 items, in other words "
+"need to choose exactly 2 items."
+
+#: admin/option/option.php:86 admin/option/option.php:111
+#: admin/option/option.php:130 admin/option/option.php:152
+#: admin/option/option.php:192 admin/option/option.php:233
+#: admin/option/option.php:262 admin/option/option.php:295
+#: admin/option/option.php:329 admin/option/option.php:364
+#: admin/option/option.php:401 admin/option/option.php:430
+#: admin/option/option.php:462 admin/option/option.php:495
+#: admin/option/option.php:529
+msgid "Label 1"
+msgstr "Label 1"
+
+#: admin/option/option.php:90 admin/option/option.php:115
+#: admin/option/option.php:134 admin/option/option.php:156
+#: admin/option/option.php:196 admin/option/option.php:238
+#: admin/option/option.php:267 admin/option/option.php:300
+#: admin/option/option.php:334 admin/option/option.php:369
+#: admin/option/option.php:406 admin/option/option.php:435
+#: admin/option/option.php:467 admin/option/option.php:500
+#: admin/option/option.php:534
+msgid "Label 2"
+msgstr "Label 2"
+
+#: admin/option/option.php:94 admin/option/option.php:119
+#: admin/option/option.php:138 admin/option/option.php:160
+#: admin/option/option.php:200 admin/option/option.php:243
+#: admin/option/option.php:272 admin/option/option.php:305
+#: admin/option/option.php:339 admin/option/option.php:374
+#: admin/option/option.php:411 admin/option/option.php:440
+#: admin/option/option.php:472 admin/option/option.php:505
+#: admin/option/option.php:539
+msgid "Label 3"
+msgstr "Label 3"
+
+#: admin/option/option.php:104
+msgid "CheckBox with Required Validation"
+msgstr "CheckBox with Required Validation"
+
+#: admin/option/option.php:105
+msgid "Required to choose anything."
+msgstr "Required to choose anything."
+
+#: admin/option/option.php:126
+msgid "RadioButton"
+msgstr "RadioButton"
+
+#: admin/option/option.php:148
+msgid "Single Select Box"
+msgstr "Single Select Box"
+
+#: admin/option/option.php:170
+msgid "Select Box with Get Categories Data Source"
+msgstr "Select Box with Get Categories Data Source"
+
+#: admin/option/option.php:186
+msgid "Multiple Select Box"
+msgstr "Multiple Select Box"
+
+#: admin/option/option.php:187
+msgid "Minimum selected of 2 items and maximum selected of 3 items."
+msgstr "Minimum selected of 2 items and maximum selected of 3 items."
+
+#: admin/option/option.php:204 admin/option/option.php:248
+#: admin/option/option.php:277 admin/option/option.php:310
+#: admin/option/option.php:344 admin/option/option.php:379
+#: admin/option/option.php:416 admin/option/option.php:445
+#: admin/option/option.php:477 admin/option/option.php:510
+#: admin/option/option.php:544
+msgid "Label 4"
+msgstr "Label 4"
+
+#: admin/option/option.php:217
+msgid "Image"
+msgstr "Image"
+
+#: admin/option/option.php:223
+msgid "Check Images"
+msgstr "Check Images"
+
+#: admin/option/option.php:228 admin/option/option.php:396
+msgid "Various Sized Images"
+msgstr "Various Sized Images"
+
+#: admin/option/option.php:229
+msgid "CheckImage with unspecified item max height and item max width"
+msgstr "CheckImage with unspecified item max height and item max width"
+
+#: admin/option/option.php:256 admin/option/option.php:424
+msgid "Specified Images Maximum Height"
+msgstr "Specified Images Maximum Height"
+
+#: admin/option/option.php:257
+msgid "CheckImage with specified item max height"
+msgstr "CheckImage with specified item max height"
+
+#: admin/option/option.php:289 admin/option/option.php:456
+msgid "Specified Images Maximum Width"
+msgstr "Specified Images Maximum Width"
+
+#: admin/option/option.php:290
+msgid "CheckImage with specified item max width"
+msgstr "CheckImage with specified item max width"
+
+#: admin/option/option.php:322 admin/option/option.php:488
+msgid "Specified Images Maximum Width and Height"
+msgstr "Specified Images Maximum Width and Height"
+
+#: admin/option/option.php:323
+msgid "CheckImage with specified item max width and item max height"
+msgstr "CheckImage with specified item max width and item max height"
+
+#: admin/option/option.php:356 admin/option/option.php:521
+msgid "Validation Rules Applied"
+msgstr "Validation Rules Applied"
+
+#: admin/option/option.php:357
+msgid "Minimum selected of 2 items and Maximum selected of 3 items."
+msgstr "Minimum selected of 2 items and Maximum selected of 3 items."
+
+#: admin/option/option.php:391
+msgid "Radio Images"
+msgstr "Radio Images"
+
+#: admin/option/option.php:397
+msgid "RadioImage with unspecified item max height and item max width"
+msgstr "RadioImage with unspecified item max height and item max width"
+
+#: admin/option/option.php:425
+msgid "RadioImage with specified item max height"
+msgstr "RadioImage with specified item max height"
+
+#: admin/option/option.php:457
+msgid "RadioImage with specified item max width"
+msgstr "RadioImage with specified item max width"
+
+#: admin/option/option.php:489
+msgid "RadioImage with specified item max width and item max height"
+msgstr "RadioImage with specified item max width and item max height"
+
+#: admin/option/option.php:522
+msgid "Required to Choose."
+msgstr "Required to Choose."
+
+#: admin/option/option.php:556
+msgid "Special Controls"
+msgstr "Special Controls"
+
+#: admin/option/option.php:562
+msgid "Section 1"
+msgstr "Section 1"
+
+#: admin/option/option.php:567
+msgid "WP TinyMCE Editor"
+msgstr "WP TinyMCE Editor"
+
+#: admin/option/option.php:568
+msgid "Wordpress tinyMCE editor."
+msgstr "Wordpress tinyMCE editor."
+
+#: admin/option/option.php:576
+msgid "Toggle"
+msgstr "Toggle"
+
+#: admin/option/option.php:577
+msgid "Suits the need to ask user a yes or no option."
+msgstr "Suits the need to ask user a yes or no option."
+
+#: admin/option/option.php:583
+msgid "Decimal Slider"
+msgstr "Decimal Slider"
+
+#: admin/option/option.php:584
+msgid ""
+"This slider has minimum value of -10, maximum value of 17.5, sliding step of "
+"0.1 and default value 15.9, everything can be customized."
+msgstr ""
+"This slider has minimum value of -10, maximum value of 17.5, sliding step of "
+"0.1 and default value 15.9, everything can be customized."
+
+#: admin/option/option.php:593
+msgid "Custom Step Slider"
+msgstr "Custom Step Slider"
+
+#: admin/option/option.php:594
+msgid ""
+"This slider has minimum value of 100, maximum value of 1000, sliding step of "
+"5 and default value 275, everything can be customized."
+msgstr ""
+"This slider has minimum value of 100, maximum value of 1000, sliding step of "
+"5 and default value 275, everything can be customized."
+
+#: admin/option/option.php:603
+msgid "Upload"
+msgstr "Upload"
+
+#: admin/option/option.php:604
+msgid "Media uploader, using the powerful WP Media Upload"
+msgstr "Media uploader, using the powerful WP Media Upload"
+
+#: admin/option/option.php:610
+msgid "Color 1"
+msgstr "Color 1"
+
+#: admin/option/option.php:611 admin/option/option.php:619
+msgid "Color Picker, you can set the default color."
+msgstr "Color Picker, you can set the default color."
+
+#: admin/option/option.php:618
+msgid "Color 2"
+msgstr "Color 2"
+
+#: admin/option/option.php:625
+msgid "International Date Format"
+msgstr "International Date Format"
+
+#: admin/option/option.php:626
+msgid "Date Picker with International date format."
+msgstr "Date Picker with International date format."
+
+#: admin/option/option.php:633
+msgid "Asian Date Format"
+msgstr "Asian Date Format"
+
+#: admin/option/option.php:634
+msgid "Date Picker with Asian date format."
+msgstr "Date Picker with Asian date format."
+
+#: admin/option/option.php:642
+msgid "Ranged Date Picker"
+msgstr "Ranged Date Picker"
+
+#: admin/option/option.php:643
+msgid ""
+"The range can be exact date or formatted string to define the offset from "
+"today, for example &quot;+1D&quot; will be parsed as tommorow date, or &quot;"
+"+1D +1W&quot;, please refer to [jQueryUI Datepicker Docs](http://jqueryui."
+"com/datepicker/#min-max)"
+msgstr ""
+"The range can be exact date or formatted string to define the offset from "
+"today, for example &quot;+1D&quot; will be parsed as tommorow date, or &quot;"
+"+1D +1W&quot;, please refer to [jQueryUI Datepicker Docs](http://jqueryui."
+"com/datepicker/#min-max)"
+
+#: admin/option/option.php:652
+msgid "Fontawesome Icon"
+msgstr "Fontawesome Icon"
+
+#: admin/option/option.php:653
+msgid "Fontawesome icon chooser with small preview."
+msgstr "Fontawesome icon chooser with small preview."
+
+#: admin/option/option.php:662
+msgid "Sorter"
+msgstr "Sorter"
+
+#: admin/option/option.php:663
+msgid "Select and sort your choices"
+msgstr "Select and sort your choices"
+
+#: admin/option/option.php:676
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: admin/option/option.php:677
+msgid "Write your custom css here."
+msgstr "Write your custom css here."
+
+#: admin/option/option.php:684
+msgid "Custom JS"
+msgstr "Custom JS"
+
+#: admin/option/option.php:685
+msgid "Write your custom js here."
+msgstr "Write your custom js here."
+
+#: admin/option/option.php:694
+msgid "Custom Data Source"
+msgstr "Custom Data Source"
+
+#: admin/option/option.php:699
+msgid "Dynamic"
+msgstr "Dynamic"
+
+#: admin/option/option.php:705
+msgid "Data Source and Smart Tags"
+msgstr "Data Source and Smart Tags"
+
+#: admin/option/option.php:710
+msgid "Categories"
+msgstr "Categories"
+
+#: admin/option/option.php:711
+msgid ""
+"MultiSelect field with WP Categories Data Source and **{{first}}** **{{last}}"
+"** default items."
+msgstr ""
+"MultiSelect field with WP Categories Data Source and **{{first}}** **{{last}}"
+"** default items."
+
+#: admin/option/option.php:728
+msgid "Pages"
+msgstr "Pages"
+
+#: admin/option/option.php:729
+msgid "Select field with WP Pages Data Source"
+msgstr "Select field with WP Pages Data Source"
+
+#: admin/option/option.php:742
+msgid "Users Data Source"
+msgstr "Users Data Source"
+
+#: admin/option/option.php:743
+msgid "Checkbox field with WP Users Data Source and **{{all}}** default items."
+msgstr ""
+"Checkbox field with WP Users Data Source and **{{all}}** default items."
+
+#: admin/option/option.php:760
+msgid "Roles"
+msgstr "Roles"
+
+#: admin/option/option.php:761
+msgid ""
+"RadioButton field with WP Roles Data Source and **{{last}}** default item."
+msgstr ""
+"RadioButton field with WP Roles Data Source and **{{last}}** default item."
+
+#: admin/option/option.php:778
+msgid ""
+"MultiSelect field with WP Tags Data Source and **{{first}}** default items."
+msgstr ""
+"MultiSelect field with WP Tags Data Source and **{{first}}** default items."
+
+#: admin/option/option.php:794
+msgid "Posts"
+msgstr "Posts"
+
+#: admin/option/option.php:795
+msgid "Select field with WP Post Data Source"
+msgstr "Select field with WP Post Data Source"
+
+#: admin/option/option.php:810
+msgid "Binding"
+msgstr "Binding"
+
+#: admin/option/option.php:816
+msgid "What a Wonderful World"
+msgstr "What a Wonderful World"
+
+#: admin/option/option.php:821 admin/option/option.php:822
+msgid "Big Continent"
+msgstr "Big Continent"
+
+#: admin/option/option.php:836 admin/option/option.php:837
+msgid "Continent"
+msgstr "Continent"
+
+#: admin/option/option.php:851 admin/option/option.php:852
+msgid "Country"
+msgstr "Country"
+
+#: admin/option/option.php:870
+msgid "Fields Interactions"
+msgstr "Fields Interactions"
+
+#: admin/option/option.php:876
+msgid "Binding Field"
+msgstr "Binding Field"
+
+#: admin/option/option.php:881
+msgid "Color Set"
+msgstr "Color Set"
+
+#: admin/option/option.php:886
+msgid "Color Preset"
+msgstr "Color Preset"
+
+#: admin/option/option.php:891
+msgid "Red"
+msgstr "Red"
+
+#: admin/option/option.php:895
+msgid "Green"
+msgstr "Green"
+
+#: admin/option/option.php:899
+msgid "Blue"
+msgstr "Blue"
+
+#: admin/option/option.php:906
+msgid "Color Accent"
+msgstr "Color Accent"
+
+#: admin/option/option.php:915
+msgid "Color Subtle"
+msgstr "Color Subtle"
+
+#: admin/option/option.php:924
+msgid "Color Background"
+msgstr "Color Background"
+
+#: admin/option/option.php:936
+msgid "Dependent Field"
+msgstr "Dependent Field"
+
+#: admin/option/option.php:941
+msgid "Decider"
+msgstr "Decider"
+
+#: admin/option/option.php:947
+msgid "Use Custom Font"
+msgstr "Use Custom Font"
+
+#: admin/option/option.php:948
+msgid "Use custom font or not"
+msgstr "Use custom font or not"
+
+#: admin/option/option.php:954
+msgid "Custom Font"
+msgstr "Custom Font"
+
+#: admin/option/option.php:964
+msgid "Font Face"
+msgstr "Font Face"
+
+#: admin/option/option.php:965
+msgid "Select Font"
+msgstr "Select Font"
+
+#: admin/option/option.php:978
+msgid "Font Style"
+msgstr "Font Style"
+
+#: admin/option/option.php:979
+msgid "Select Font Style"
+msgstr "Select Font Style"
+
+#: admin/option/option.php:996
+msgid "Font Weight"
+msgstr "Font Weight"
+
+#: admin/option/option.php:997
+msgid "Select Font Weight"
+msgstr "Select Font Weight"
+
+#: admin/option/option.php:1012
+msgid "Single Field dependency"
+msgstr "Single Field dependency"
+
+#: admin/option/option.php:1018
+msgid "Use Custom Logo"
+msgstr "Use Custom Logo"
+
+#: admin/option/option.php:1019
+msgid "Use custom logo or not"
+msgstr "Use custom logo or not"
+
+#: admin/option/option.php:1024
+msgid "Custom Logo"
+msgstr "Custom Logo"
+
+#: admin/option/option.php:1029
+msgid "Upload or choose custom logo"
+msgstr "Upload or choose custom logo"
+
+#: admin/option/option.php:1038
+msgid "Advanced Usage"
+msgstr "Advanced Usage"
+
+#: admin/option/option.php:1044
+msgid "Typography with Preview"
+msgstr "Typography with Preview"
+
+#: admin/option/option.php:1057
+msgid "Logo Font Face"
+msgstr "Logo Font Face"
+
+#: admin/option/option.php:1071
+msgid "Logo Font Style"
+msgstr "Logo Font Style"
+
+#: admin/option/option.php:1088
+msgid "Logo Font Weight"
+msgstr "Logo Font Weight"
+
+#: admin/option/option.php:1102
+msgid "Logo Font Size (px)"
+msgstr "Logo Font Size (px)"
+
+#: admin/option/option.php:1110
+msgid "Logo Line Height (em)"
+msgstr "Logo Line Height (em)"
+
+#: admin/option/option.php:1122
+msgid "Notebox"
+msgstr "Notebox"
+
+#: admin/option/option.php:1128 admin/option/option.php:1168
+msgid "Normal Announcement"
+msgstr "Normal Announcement"
+
+#: admin/option/option.php:1129 admin/option/option.php:1136
+#: admin/option/option.php:1143 admin/option/option.php:1150
+#: admin/option/option.php:1157 admin/option/option.php:1169
+#: admin/option/option.php:1176 admin/option/option.php:1183
+#: admin/option/option.php:1190 admin/option/option.php:1197
+#: admin/option/option.php:1211
+msgid ""
+"Pellentesque habitant morbi tristique senectus et netus et malesuada fames "
+"ac turpis egestas"
+msgstr ""
+"Pellentesque habitant morbi tristique senectus et netus et malesuada fames "
+"ac turpis egestas"
+
+#: admin/option/option.php:1135 admin/option/option.php:1175
+#: admin/option/option.php:1210
+msgid "Info Announcement"
+msgstr "Info Announcement"
+
+#: admin/option/option.php:1142 admin/option/option.php:1182
+msgid "Success Announcement"
+msgstr "Success Announcement"
+
+#: admin/option/option.php:1149 admin/option/option.php:1189
+msgid "Warning Announcement"
+msgstr "Warning Announcement"
+
+#: admin/option/option.php:1156 admin/option/option.php:1196
+msgid "Critical Announcement"
+msgstr "Critical Announcement"
+
+#: admin/option/option.php:1162
+msgid "Notebox in a Section"
+msgstr "Notebox in a Section"
+
+#: admin/option/option.php:1204
+msgid "Notebox with Fields"
+msgstr "Notebox with Fields"
+
+#: admin/option/option.php:1217 admin/option/option.php:1223
+msgid "Textbox"
+msgstr "Textbox"
+
+#: lib/admin.php:49 lib/admin.php:50
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: lib/init-menu.php:13
+msgid "Main Side Navigation"
+msgstr "Main Side Navigation"
+
+#: lib/init-menu.php:14
+msgid "Side Navigation Bottom"
+msgstr "Side Navigation Bottom"
+
+#: lib/init-menu.php:15
+msgid "Mobile Navigation"
+msgstr "Mobile Navigation"
+
+#: lib/themes-functionality.php:666
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: lib/themes-functionality.php:739
+msgid "Page"
+msgstr "Page"
+
+#: lib/themes-functionality.php:740
+msgid "From"
+msgstr "From"
+
+#: lib/themes-functionality.php:785 template/article-bottom-meta.php:25
+msgid "% Comments"
+msgstr "% Comments"
+
+#: lib/themes-functionality.php:788
+msgid "No Comments"
+msgstr "No Comments"
+
+#: lib/themes-functionality.php:791 template/article-bottom-meta.php:24
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: lib/themes-functionality.php:814
+msgid "Replay"
+msgstr "Replay"
+
+#: lib/themes-functionality.php:815
+msgid "Cancel Replay"
+msgstr "Cancel Replay"
+
+#: lib/themes-functionality.php:824
+msgid "Your comment is awaiting moderation"
+msgstr "Your comment is awaiting moderation"
+
+#: lib/themes-functionality.php:865
+msgid "GET DIRECTION"
+msgstr "GET DIRECTION"
+
+#: template/article-bottom-meta.php:4
+msgid "Filled under :"
+msgstr "Filled under :"
+
+#: template/article-bottom-meta.php:17
+msgid "Author :"
+msgstr "Author :"
+
+#: template/article-bottom-meta.php:20
+msgid "Comment Number :"
+msgstr "Comment Number :"
+
+#: template/article-bottom-meta.php:23
+msgid "No Comment Yet"
+msgstr "No Comment Yet"
+
+#: template/article-bottom-meta.php:33
+msgid "Tagged on :"
+msgstr "Tagged on :"
+
+#: template/article-sharing.php:6
+msgid "Tweet"
+msgstr "Tweet"
+
+#: template/article-sharing.php:10
+msgid "Like"
+msgstr "Like"
+
+#: template/article-sharing.php:14
+msgid "+1"
+msgstr "+1"
+
+#: template/article-sharing.php:18
+msgid "Pin It"
+msgstr "Pin It"
+
+#: template/loading.php:7
+msgid "Loading..."
+msgstr "Loading..."
+
+#: template/mobilemenu.php:4
+msgid "Mobile Menu"
+msgstr "Mobile Menu"
+
+#: template/mobilemenu.php:8
+msgid "Language Switch"
+msgstr "Language Switch"
+
+#: template/mobilemenu.php:15
+msgid "Social Link"
+msgstr "Social Link"
+
+#: template/password-form.php:6
+msgid "Enter Your Password"
+msgstr "Enter Your Password"
+
+#: vafpress-framework/bootstrap.php:88
+#: vafpress-framework/classes/option.php:368
+#: vafpress-framework/classes/option.php:393
+msgid "Successful"
+msgstr "Successful"
+
+#: vafpress-framework/bootstrap.php:99
+msgid "Unauthorized function"
+msgstr "Unauthorized function"
+
+#: vafpress-framework/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr "[Development Mode] "
+
+#: vafpress-framework/classes/metabox.php:564
+#: vafpress-framework/classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr "Remove"
+
+#: vafpress-framework/classes/metabox.php:586
+#: vafpress-framework/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr "Add More"
+
+#: vafpress-framework/classes/option.php:47
+#: vafpress-framework/classes/option.php:48
+msgid "Vafpress Options"
+msgstr "Vafpress Options"
+
+#: vafpress-framework/classes/option.php:54
+msgid "Option Key is required"
+msgstr "Option Key is required"
+
+#: vafpress-framework/classes/option.php:56
+msgid "Template Array/File is required"
+msgstr "Template Array/File is required"
+
+#: vafpress-framework/classes/option.php:58
+msgid "Page Slug is required"
+msgstr "Page Slug is required"
+
+#: vafpress-framework/classes/option.php:182
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+"Development Mode is Active, options' values won't be saved into database."
+
+#: vafpress-framework/classes/option.php:310
+msgid "Can not be empty"
+msgstr "Can not be empty"
+
+#: vafpress-framework/classes/option.php:335
+msgid "Invalid data"
+msgstr "Invalid data"
+
+#: vafpress-framework/classes/option.php:398
+msgid "Unverified Access"
+msgstr "Unverified Access"
+
+#: vafpress-framework/classes/option.php:464
+msgid "Invalid template supplied"
+msgstr "Invalid template supplied"
+
+#: vafpress-framework/classes/option.php:477
+msgid "Utility"
+msgstr "Utility"
+
+#: vafpress-framework/classes/option.php:483
+#: vafpress-framework/views/option/restore.php:13
+msgid "Restore Default"
+msgstr "Restore Default"
+
+#: vafpress-framework/classes/option.php:492
+msgid "Export/Import"
+msgstr "Export/Import"
+
+#: vafpress-framework/classes/shortcodegenerator.php:259
+msgid "Insert"
+msgstr "Insert"
+
+#: vafpress-framework/classes/shortcodegenerator.php:260
+msgid "Cancel"
+msgstr "Cancel"
+
+#: vafpress-framework/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr "Saving successful"
+
+#: vafpress-framework/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr "Saving failed"
+
+#: vafpress-framework/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr "No changes made"
+
+#: vafpress-framework/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr "Value needs to be Alphabet"
+
+#: vafpress-framework/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr "Value needs to be Alphanumeric"
+
+#: vafpress-framework/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr "Value needs to be Numeric"
+
+#: vafpress-framework/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr "Value needs to be Valid Email"
+
+#: vafpress-framework/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr "Value needs to be Valid URL"
+
+#: vafpress-framework/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr "Length needs to be less than {0} characters"
+
+#: vafpress-framework/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr "Length needs to be more than {0} characters"
+
+#: vafpress-framework/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr "Select no more than {0} items"
+
+#: vafpress-framework/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr "Select at least {0} items"
+
+#: vafpress-framework/config/messages.php:22
+msgid "This is required"
+msgstr "This is required"
+
+#: vafpress-framework/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr "Import succeed, option page will be refreshed.."
+
+#: vafpress-framework/config/messages.php:30
+msgid "Import failed"
+msgstr "Import failed"
+
+#: vafpress-framework/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr "Export succeed, copy the JSON formatted options"
+
+#: vafpress-framework/config/messages.php:32
+msgid "Export failed"
+msgstr "Export failed"
+
+#: vafpress-framework/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr "Restoration succeed, option page will be refreshed.."
+
+#: vafpress-framework/config/messages.php:34
+msgid "Options identical to default"
+msgstr "Options identical to default"
+
+#: vafpress-framework/config/messages.php:35
+msgid "Restoration failed"
+msgstr "Restoration failed"
+
+#: vafpress-framework/config/messages.php:43
+msgid "Select option(s)"
+msgstr "Select option(s)"
+
+#: vafpress-framework/config/messages.php:45
+msgid "Select an Icon"
+msgstr "Select an Icon"
+
+#: vafpress-framework/views/control/upload.php:5
+msgid "Choose File"
+msgstr "Choose File"
+
+#: vafpress-framework/views/option/impexp.php:4
+#: vafpress-framework/views/option/impexp.php:14
+msgid "Import"
+msgstr "Import"
+
+#: vafpress-framework/views/option/impexp.php:7
+msgid "Import Options"
+msgstr "Import Options"
+
+#: vafpress-framework/views/option/impexp.php:27
+#: vafpress-framework/views/option/impexp.php:37
+msgid "Export"
+msgstr "Export"
+
+#: vafpress-framework/views/option/impexp.php:30
+msgid "Export Options"
+msgstr "Export Options"
+
+#: vafpress-framework/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr "Restore Default Options"
+
+#: vafpress-framework/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr "Restore options to initial default values."
+
+#: vafpress-framework/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone."
+msgstr ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone."
+
+#: vafpress-framework/views/option/set.php:68
+#: vafpress-framework/views/option/set.php:83
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: vafpress-framework/views/option/set.php:69
+#: vafpress-framework/views/option/set.php:84
+msgid "Saving Now"
+msgstr "Saving Now"
+
+#: vafpress-framework/views/option/set.php:92
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"

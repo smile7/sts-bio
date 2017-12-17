@@ -1,0 +1,1231 @@
+# Translation of the WordPress theme MaryAnne 1.1 by Tomas Toman.
+# This file is distributed under the same license as the MaryAnne package.
+# Tomas Toman <webdesign@tomastoman.cz>, 2014.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MaryAnne 1.1\n"
+"POT-Creation-Date: 2014-06-27 07:44+0100\n"
+"PO-Revision-Date: 2014-11-17 10:50+0100\n"
+"Last-Translator: \n"
+"Language-Team: Pawel Grochowski\n"
+"Language: Polski\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# @ maryanne
+#: 404.php:9 search.php:45
+msgid "Nothing Found"
+msgstr "Nic nie znaleziono"
+
+# @ maryanne
+#: 404.php:15
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"Przepraszamy, ale nie znaleziono żadnych wyników spełniających kryteria "
+"wyszukiwania."
+
+# @ maryanne
+#: archive.php:11
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ maryanne
+#: archive.php:13
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ maryanne
+#: archive.php:15
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ maryanne
+#: archive.php:17
+msgid "Archive"
+msgstr "Archiwum"
+
+# @ maryanne
+#: author.php:11
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:156
+msgid "Install Required Plugins"
+msgstr "Zainstaluj wymagane wtyczki"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:157 functions.php:499
+msgid "Install Plugins"
+msgstr "Zainstaluj wtyczki"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:158 functions.php:503
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalacja wtyczki: %s"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr "Coś poszło źle."
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:170
+msgid "Return to Required Plugins Installer"
+msgstr "Powrót do instalatora wymaganej wtyczki"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr "Powrót do Kokpitu"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Wtyczka aktywowana."
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:173 class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr "Wtyczka została aktywowana:"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zostały zainstalowane i są  aktywowane. %1$s"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr "Odrzuć tę informację"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Link zewnętrzny"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Prywatne repozytorium"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPress"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Wymagane"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Zalecane"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Niezainstalowany"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Zainstalowane, ale nieaktywne"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Brak wtyczki do instalacji lub aktywacji. <a href=\"%1$s\" title=\"Return do "
+"Dashboard\">Powrót do Dashboard</a>"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Wtyczka"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Źródło"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Typ"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Status"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Instaluj"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Aktywuj"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Pakiet instalacyjny nie jest dostępny."
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Pobieranie instalowanego pakietu z <span class=\"code\">%s</span>&#8230;"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Rozpakowywanie paczki&#8230;"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Instalowanie wtyczki&#8230;"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Nie zainstalowano wtyczki"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Wtyczki zainstalowane pomyślnie."
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Aktywacja wtyczki nie powiodła się."
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proces instalacji i aktywacji rozpoczęty. Ten proces może trochę potrwać, "
+"więc proszę o cierpliwość."
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s zainstalowana i aktywowana pomyślnie."
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Wszystkie instalacje i aktywacje zostały zakończone"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie i aktywowanie wtyczki %1$s (%2$d/%3$d)"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Instalacja rozpoczęta. Ten proces może trochę potrwać, więc proszę o "
+"cierpliwość."
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Wystąpił błąd podczas instalacji %1$s: <strong>%2$s</strong>."
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalacja %1$s nie powiodła się."
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s zainstalowano pomyślnie."
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zostały zakończone."
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalacja wtyczki %1$s (%2$d/%3$d)"
+
+# @ maryanne
+#: class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Powrót do Dashboard"
+
+# @ maryanne
+#: comments.php:21 content-archives-audio.php:22
+#: content-archives-standard.php:24 content-archives-status.php:21
+#: content-archives-video.php:24 content-grid-audio.php:26
+#: content-grid-standard.php:28 content-grid-status.php:25
+#: content-grid-video.php:23 single.php:30
+#: functions/fe/widget-posts-column.php:114
+#: functions/fe/widget-posts-column.php:130
+#: functions/fe/widget-posts-list.php:112
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Komentarz"
+msgstr[1] "%1$s Komentarzy"
+
+# @ maryanne
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; Starsze komentarze"
+
+# @ maryanne
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr "Najnowsze komentarze &rarr;"
+
+# @ maryanne
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Komentarze są zamknięte."
+
+# @ maryanne
+#: comments.php:42
+msgid "Your name"
+msgstr "Twoje imię"
+
+# @ maryanne
+#: comments.php:43
+msgid "Website"
+msgstr "strona"
+
+# @ maryanne
+#: comments.php:44
+msgid "Comment..."
+msgstr "Komentarz ..."
+
+# @ maryanne
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr "Dodaj komentarz"
+
+# @ maryanne
+#: content-archives-audio.php:19 content-archives-standard.php:21
+#: content-archives-status.php:18 content-archives-video.php:21
+#: content-grid-audio.php:23 content-grid-standard.php:25
+#: content-grid-status.php:22 content-grid-video.php:20 single.php:27
+msgid "Author: "
+msgstr "Autor: "
+
+# @ maryanne
+#: functions.php:154
+msgid "Main Menu"
+msgstr "Menu główne"
+
+# @ maryanne
+#: functions.php:164
+msgid "Right Sidebar"
+msgstr "Prawy pasek boczny"
+
+# @ maryanne
+#: functions.php:166
+msgid "Right sidebar which appears on all posts and pages."
+msgstr ""
+"Prawy pasek boczny, który pojawia się we wszystkich postach i na stronach."
+
+# @ maryanne
+#: functions.php:173
+msgid "Footer left widget area"
+msgstr "Stopka, lewa strona widget"
+
+# @ maryanne
+#: functions.php:175
+msgid "Left column with widgets in footer."
+msgstr "Stopka, lewa kolumna z widgetami."
+
+# @ maryanne
+#: functions.php:182
+msgid "Footer middle widget area"
+msgstr "Stopka, środek widget"
+
+# @ maryanne
+#: functions.php:184
+msgid "Middle column with widgets in footer."
+msgstr "Stopka, środkowa kolumna z widgetami."
+
+# @ maryanne
+#: functions.php:191
+msgid "Footer right widget area"
+msgstr "Stopka, prawa strona widget"
+
+# @ maryanne
+#: functions.php:193
+msgid "Right column with widgets in footer."
+msgstr "Stopka, prawa kolumna z widgetami."
+
+# @ maryanne
+#: functions.php:200
+msgid "Footer notices"
+msgstr "Stopka, pole notatek"
+
+# @ maryanne
+#: functions.php:202
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Linia do praw autorskich i innych informacji, poniżej obszarów widgetów "
+"stopki. Wstaw tutaj jeden widget tekstu. Pole \"Tytuł\" w tym widgecie "
+"powinno zostać puste."
+
+#: functions.php:221
+msgid "(READ MORE)"
+msgstr "(Więcej)"
+
+#: functions.php:233
+msgid "Video Thumbnail"
+msgstr "Podgląd wideo"
+
+# @ maryanne
+#: functions.php:245
+msgid "Insert here the full URL address of the Video Thumbnail."
+msgstr "Wprowadź pełny adres URL podgląd wideo."
+
+# @ maryanne
+#: functions.php:322
+msgid "Post navigation"
+msgstr "Temat nawigacji"
+
+# @ maryanne
+#: functions.php:330 search.php:33
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:462
+msgid "&larr; Previous"
+msgstr "&larr; Poprzedni"
+
+# @ maryanne
+#: functions.php:331 search.php:34
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:465
+msgid "Next &rarr;"
+msgstr "Następny &rarr;"
+
+# @ maryanne
+#: functions.php:353
+msgid "&larr; Previous post"
+msgstr "&larr; Poprzedni post"
+
+# @ maryanne
+#: functions.php:355
+msgid "Next post &rarr;"
+msgstr "Następny post &rarr;"
+
+# @ maryanne
+#: functions.php:373
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ maryanne
+#: functions.php:373
+msgid "(Edit)"
+msgstr "(Eytuj)"
+
+# @ maryanne
+#: functions.php:386
+msgid "(Post author)"
+msgstr "(Post autora)"
+
+# @ maryanne
+#: functions.php:392
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s - %2$s"
+
+# @ maryanne
+#: functions.php:398
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz czeka na akceptację."
+
+# @ maryanne
+#: functions.php:404
+msgid "Reply"
+msgstr "Odpowiedź"
+
+# @ maryanne
+#: functions.php:406 page.php:18 single.php:41
+#: template-full-width-without-sharing.php:19 template-full-width.php:19
+#: template-landing-page.php:18 template-sitemap.php:20
+#: template-without-sharing.php:19 template-without-title.php:16
+msgid "Edit"
+msgstr "Edycja"
+
+# @ maryanne
+#: functions.php:498
+msgid "Install Recommended Plugins"
+msgstr "Zainstaluj rekomendowane wtyczki"
+
+# @ maryanne
+#: functions.php:500
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"%1$s wtyczka jest wymagana do tego tematu. Kliknij na poniższy duży "
+"niebieski przycisk aby ją zainstalować i aktywować %1$s."
+
+# @ maryanne
+#: functions.php:501
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+"%1$s jest zainstalowana, ale nieaktywna. Przejdź do zakładki <a href=\"%2$s"
+"\">Wtyczki</a>, aby ją aktywować."
+
+# @ maryanne
+#: functions.php:502
+#, php-format
+msgid "Install %s Now"
+msgstr "Zainstaluj teraz %s"
+
+# @ maryanne
+#: functions.php:504
+msgid "Something went wrong with the plugin API."
+msgstr "Coś poszło nie tak z API wtyczki."
+
+# @ maryanne
+#: functions.php:505
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"Temat ten wymaga %1$s wtyczki. <a href=\"%2$s\"><strong> Kliknij tutaj, aby "
+"rozpocząć proces instalacji </ strong></a>. Możesz zostać poproszony o "
+"poświadczenie FTP w oparciu o konfiguracji serwera."
+
+# @ maryanne
+#: functions.php:506
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień, aby zainstalować wtyczkę "
+"%s. Skontaktuj się z administratorem strony aby to zrobić."
+
+# @ maryanne
+#: functions.php:507
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"Temat ten wymaga wtyczki %1$s. Wtyczka jest aktualnie nieaktywna, proszę iść "
+"do <a href=\"%2$s\">strony administracji wtyczki</a>, aby go uaktywnić."
+
+# @ maryanne
+#: functions.php:508
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień, aby aktywować %s wtyczkę. "
+"Aby ją aktywować skontaktuj się z administratorem strony."
+
+# @ maryanne
+#: functions.php:509
+msgid "Return to Recommended Plugins Installer"
+msgstr "Powrót do instalatora rekomendowanych wtyczek "
+
+# @ maryanne
+#: functions.php:520
+msgid "MaryAnne"
+msgstr "MaryAnne"
+
+# @ maryanne
+#: search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla: %s"
+
+# @ maryanne
+#: search.php:15
+msgid "Number of Results: "
+msgstr "Liczba wyników: "
+
+# @ maryanne
+#: search.php:25
+msgid "Search results navigation"
+msgstr "Wyniki wyszukiwania nawigacji"
+
+# @ maryanne
+#: search.php:50
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Przepraszamy, ale nie znaleziono żadnych wyników spełniających kryteria "
+"wyszukiwania. Spróbuj ponownie używając innych słów kluczowych."
+
+# @ maryanne
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Szukaj..."
+
+# @ maryanne
+#: single.php:40
+msgid "Pages:"
+msgstr "Strony:"
+
+# @ maryanne
+#: tag.php:10
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ cycloneslider
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Powiększ zdjęcie"
+
+# @ cycloneslider
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr "Dowiedz się więcej"
+
+# @ cycloneslider
+#: cycloneslider/dark/slider.php:64 cycloneslider/default/slider.php:62
+#: cycloneslider/default/slider.php:66 cycloneslider/default/slider.php:70
+#: cycloneslider/standard/slider.php:70 cycloneslider/thumbnails/slider.php:70
+msgid "Slide type not supported."
+msgstr "Typ slajdów nie działa."
+
+# @ maryanne
+#: functions/be/fw-options.php:1293
+msgid "settings reset."
+msgstr "przywróć ustawienia."
+
+# @ maryanne
+#: functions/be/fw-setup.php:16
+msgid "Theme Options"
+msgstr "Opcje motywu"
+
+# @ maryanne
+#: functions/fe/google-map-shortcode.php:100
+msgid "No location found for the entered address."
+msgstr "Nie znaleziono podanego adresu lokalizacji."
+
+# @ maryanne
+#: functions/fe/google-map-shortcode.php:102
+msgid "Invalid request. Did you enter an address?"
+msgstr "Nieprawidłowe żądanie. Czy podałeś adres?"
+
+# @ maryanne
+#: functions/fe/google-map-shortcode.php:104
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+"Coś poszło nie tak podczas pobierania mapy, należy upewnić się, że "
+"prawidłowo wpisano krótki kod."
+
+# @ maryanne
+#: functions/fe/google-map-shortcode.php:107
+msgid "Unable to contact Google API service."
+msgstr "Nie można połączyć się z serwisem Google API."
+
+# @ maryanne
+#: functions/fe/widget-facebook.php:12
+msgid "Displays Facebook Like Box."
+msgstr "Facebook Like Box."
+
+# @ maryanne
+#: functions/fe/widget-facebook.php:14
+msgid "MaryAnne Facebook Like Box Widget"
+msgstr "MaryAnne Facebook Like Box Widget"
+
+# @ maryanne
+#: functions/fe/widget-facebook.php:56 functions/fe/widget-info-box.php:67
+#: functions/fe/widget-posts-column.php:41
+#: functions/fe/widget-posts-default.php:41
+#: functions/fe/widget-posts-grid.php:41 functions/fe/widget-posts-list.php:41
+#: functions/fe/widget-posts-slider.php:41
+#: functions/fe/widget-posts-thumbnail.php:41
+#: functions/fe/widget-social.php:86 functions/fe/widget-twitter.php:39
+msgid "Title:"
+msgstr "Tytuł:"
+
+# @ maryanne
+#: functions/fe/widget-facebook.php:63
+msgid "Facebook Page URL:"
+msgstr "Adres URL strony na Facebook:"
+
+# @ maryanne
+#: functions/fe/widget-facebook.php:67
+msgid ""
+"Insert here the full URL of your Facebook Page that will be liked (example: "
+"http://www.facebook.com/FacebookDevelopers)."
+msgstr ""
+"Wstaw tutaj pełny adres URL swojej strony na Facebook, (przykład: http://www."
+"facebook.com/FacebookDevelopers)."
+
+# @ maryanne
+#: functions/fe/widget-facebook.php:73
+msgid "Like Box Height: (optional)"
+msgstr "Wysokość boksu Like (opcjonalnie)"
+
+# @ maryanne
+#: functions/fe/widget-facebook.php:77
+msgid ""
+"Insert here the height of Like Box. The value is in pixels, but in the field "
+"please write ONLY NUMBERS (without symbol \"px\")!"
+msgstr ""
+"Wstaw tutaj wysokość boksu Like. Wartość w pikselach, w polu należy wpisać "
+"TYLKO CYFRY (bez symbolu \"px\")!"
+
+# @ maryanne
+#: functions/fe/widget-facebook.php:83
+msgid "Show Faces:"
+msgstr "Pokaż profile:"
+
+# @ maryanne
+#: functions/fe/widget-facebook.php:90
+msgid "Specify whether to display profile photos of people who like the page."
+msgstr "Określ, czy wyświetlać zdjęcia ludzi, którzy lubią stronę."
+
+# @ maryanne
+#: functions/fe/widget-facebook.php:96
+msgid "Show Stream:"
+msgstr "Pokaż strumień wiadomości:"
+
+# @ maryanne
+#: functions/fe/widget-facebook.php:103
+msgid "Specify whether to display a stream of the latest posts by the Page."
+msgstr "Określ, czy wyświetlać strumień najnowszych wiadomości przez stronę."
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:12
+msgid "Displays a box with your custom text and icon."
+msgstr "Wyświetla okno z niestandardowego tekstu i ikony."
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:14
+msgid "MaryAnne Info-Box"
+msgstr "MaryAnne Info-Box"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:41
+msgid "Icon:"
+msgstr "Ikona:"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:44
+msgid "Basket"
+msgstr "Koszyk"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:45
+msgid "Book"
+msgstr "Książka"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:46
+msgid "Calendar"
+msgstr "Kalendarz"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:47
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:77
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:195
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "Comments"
+msgstr "Komentarze"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:48
+msgid "Download"
+msgstr "Pobierz"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:49
+msgid "Envelope"
+msgstr "Koperta"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:50
+msgid "Globe"
+msgstr "Glob"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:51
+msgid "Heart"
+msgstr "Serce"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:52
+msgid "Home"
+msgstr "Strona głowna"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:53
+msgid "Notepad"
+msgstr "Notatnik"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:54
+msgid "Pin"
+msgstr "Pin"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:55
+msgid "Star"
+msgstr "Gwiazda"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:56
+msgid "Tick"
+msgstr "Tick"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:57
+msgid "User"
+msgstr "Użytkownik"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:58
+msgid "none"
+msgstr "brak"
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:61
+msgid "Select an icon which will be displayed beside the title."
+msgstr "Wybierz ikonę, która będzie wyświetlana obok tytułu."
+
+# @ maryanne
+#: functions/fe/widget-info-box.php:74
+msgid "Text:"
+msgstr "Tekst:"
+
+# @ maryanne
+#: functions/fe/widget-posts-column.php:12
+msgid ""
+"Displays the latest posts from the selected category as a column with "
+"highlighted first post."
+msgstr ""
+"Najnowsze posty z wybranej kategorii jako kolumny z podświetlonym pierwszym "
+"postem."
+
+# @ maryanne
+#: functions/fe/widget-posts-column.php:14
+msgid "MaryAnne Posts-Column"
+msgstr "MaryAnne Posts-Column"
+
+# @ maryanne
+#: functions/fe/widget-posts-column.php:48
+#: functions/fe/widget-posts-default.php:48
+#: functions/fe/widget-posts-grid.php:48 functions/fe/widget-posts-list.php:48
+#: functions/fe/widget-posts-slider.php:48
+#: functions/fe/widget-posts-thumbnail.php:48
+msgid "Category:"
+msgstr "Kategoria:"
+
+# @ maryanne
+#: functions/fe/widget-posts-column.php:58
+#: functions/fe/widget-posts-default.php:58
+#: functions/fe/widget-posts-grid.php:58 functions/fe/widget-posts-list.php:58
+#: functions/fe/widget-posts-slider.php:58
+#: functions/fe/widget-posts-thumbnail.php:58
+msgid "Select a category of posts."
+msgstr "Wybierz kategorię postu."
+
+# @ maryanne
+#: functions/fe/widget-posts-column.php:64
+#: functions/fe/widget-posts-default.php:64
+#: functions/fe/widget-posts-grid.php:64 functions/fe/widget-posts-list.php:64
+#: functions/fe/widget-posts-slider.php:64
+#: functions/fe/widget-posts-thumbnail.php:64
+msgid "Number of posts:"
+msgstr "Liczba postów:"
+
+# @ maryanne
+#: functions/fe/widget-posts-column.php:68
+#: functions/fe/widget-posts-default.php:68
+#: functions/fe/widget-posts-grid.php:68 functions/fe/widget-posts-list.php:68
+#: functions/fe/widget-posts-slider.php:68
+#: functions/fe/widget-posts-thumbnail.php:68
+msgid ""
+"Insert here the number of latest posts from the selected category which you "
+"want to display."
+msgstr ""
+"Wstaw tutaj liczbę najnowszych wiadomości z wybranej kategorii, które mają "
+"być wyświetlane."
+
+# @ maryanne
+#: functions/fe/widget-posts-default.php:12
+msgid ""
+"Displays the latest posts from the selected category in the default manner."
+msgstr "Najnowsze domyślne posty z wybranej kategorii."
+
+# @ maryanne
+#: functions/fe/widget-posts-default.php:14
+msgid "MaryAnne Posts-Default"
+msgstr "MaryAnne Posts-Default"
+
+# @ maryanne
+#: functions/fe/widget-posts-grid.php:12
+msgid "Displays the latest posts from the selected category as a grid."
+msgstr "Najnowsze posty z wybranej kategorii jako tabela."
+
+# @ maryanne
+#: functions/fe/widget-posts-grid.php:14
+msgid "MaryAnne Posts-Grid"
+msgstr "MaryAnne Posts-Grid"
+
+# @ maryanne
+#: functions/fe/widget-posts-list.php:12
+msgid ""
+"Displays the latest posts from the selected category as an unordered list "
+"with highlighted first post."
+msgstr ""
+"Najnowsze posty z wybranej kategorii jako nieuporządkowana lista z "
+"podświetlonym pierwszym postem."
+
+# @ maryanne
+#: functions/fe/widget-posts-list.php:14
+msgid "MaryAnne Posts-List"
+msgstr "MaryAnne Posts-List"
+
+# @ maryanne
+#: functions/fe/widget-posts-slider.php:12
+msgid "Displays the latest posts from the selected category as a slider."
+msgstr "Najnowsze posty z wybranej kategorii jako suwak."
+
+# @ maryanne
+#: functions/fe/widget-posts-slider.php:14
+msgid "MaryAnne Posts-Slider"
+msgstr "MaryAnne Posts-Slider"
+
+# @ maryanne
+#: functions/fe/widget-posts-thumbnail.php:12
+msgid "Displays the latest posts from the selected category as the thumbnails."
+msgstr "Najnowsze posty z wybranej kategorii jako miniatury."
+
+# @ maryanne
+#: functions/fe/widget-posts-thumbnail.php:14
+msgid "MaryAnne Posts-Thumbnail"
+msgstr "MaryAnne Posts-Thumbnail"
+
+# @ maryanne
+#: functions/fe/widget-social.php:12
+msgid "A Social widget by MaryAnne"
+msgstr "Social widget MaryAnne"
+
+# @ maryanne
+#: functions/fe/widget-social.php:14
+msgid "MaryAnne Social Widget"
+msgstr "MaryAnne Social Widget"
+
+# @ maryanne
+#: functions/fe/widget-social.php:93
+msgid "Twitter:"
+msgstr "Twitter:"
+
+# @ maryanne
+#: functions/fe/widget-social.php:97
+msgid "Insert the full URL of your Twitter profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na Twitterze."
+
+# @ maryanne
+#: functions/fe/widget-social.php:103
+msgid "Facebook:"
+msgstr "Facebook:"
+
+# @ maryanne
+#: functions/fe/widget-social.php:107
+msgid "Insert the full URL of your Facebook profile, page or group."
+msgstr "Wprowadź pełny adres URL profilu, strony lub grupy na Facebook."
+
+# @ maryanne
+#: functions/fe/widget-social.php:113
+msgid "RSS:"
+msgstr "RSS:"
+
+# @ maryanne
+#: functions/fe/widget-social.php:117
+msgid "Insert the Url of your RSS. You may include your RSS from Feedburner."
+msgstr "Wprowadź adres URL RSS. Możesz podać swój RSS z FeedBurner."
+
+# @ maryanne
+#: functions/fe/widget-social.php:123
+msgid "Google Plus:"
+msgstr "Google Plus:"
+
+# @ maryanne
+#: functions/fe/widget-social.php:127
+msgid "Insert the full URL of your Google Plus profile"
+msgstr "Wprowadź pełny adres URL swojego profilu Google Plus"
+
+# @ maryanne
+#: functions/fe/widget-social.php:133
+msgid "YouTube:"
+msgstr "YouTube:"
+
+# @ maryanne
+#: functions/fe/widget-social.php:137
+msgid "Insert the full URL of your YouTube profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na YouTube."
+
+# @ maryanne
+#: functions/fe/widget-social.php:143
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+# @ maryanne
+#: functions/fe/widget-social.php:147
+msgid "Insert the full URL of your Linkedin profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na LinkedIn."
+
+# @ maryanne
+#: functions/fe/widget-social.php:153
+msgid "Delicious:"
+msgstr "Delicious:"
+
+# @ maryanne
+#: functions/fe/widget-social.php:157
+msgid "Insert the full URL of your Delicious profile."
+msgstr "Wprowadź pełny adres URL swojego profilu Delicious."
+
+# @ maryanne
+#: functions/fe/widget-social.php:163
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+# @ maryanne
+#: functions/fe/widget-social.php:167
+msgid "Insert the full URL of your Pinterest profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na Pinterest."
+
+# @ maryanne
+#: functions/fe/widget-social.php:173
+msgid "Flickr:"
+msgstr "Flickr:"
+
+# @ maryanne
+#: functions/fe/widget-social.php:177
+msgid "Insert the full URL of your Flickr profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na Flickr."
+
+# @ maryanne
+#: functions/fe/widget-twitter.php:13
+msgid "Twitter widget by MaryAnne"
+msgstr "MaryAnne Twitter widget."
+
+# @ maryanne
+#: functions/fe/widget-twitter.php:15
+msgid "MaryAnne Twitter Widget"
+msgstr "MaryAnne Twitter Widget"
+
+# @ maryanne
+#: functions/fe/widget-twitter.php:25
+msgid "Join us on Twitter"
+msgstr "Dołącz do nas na Twitterze"
+
+# @ maryanne
+#: functions/fe/widget-twitter.php:46
+msgid "Twitter Username:"
+msgstr "Nazwa użytkownika na Twitter:"
+
+# @ maryanne
+#: functions/fe/widget-twitter.php:50
+msgid "Insert your Twitter username. (ex: maryanne)."
+msgstr "Wprowadź swoją nazwę użytkownika na Twitter. (przykład: maryanne)."
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:19
+msgid ""
+"Display popular posts, recent posts, comments and tags in tabbed format."
+msgstr ""
+"Wyświetl popularne posty, ostatnie posty, komentarze i tagi w formacie "
+"zakładkami."
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:21
+msgid "MaryAnne Tab Widget"
+msgstr "MaryAnne Tab Widget"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:41
+msgid "Select Tabs"
+msgstr "Wybierz zakładki"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:46
+msgid "Popular Tab"
+msgstr "Popularne zakładki"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:50
+msgid "Recent Tab"
+msgstr "Najnowsze zakładki"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:54
+msgid "Comments Tab"
+msgstr "Zakładki komentarzy"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:58
+msgid "Tags Tab"
+msgstr "Zakładka tagów"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:63
+msgid "Tab Order"
+msgstr "Kolejność zakładek"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:69
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:193
+msgid "Popular"
+msgstr "Popularne"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:73
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:194
+msgid "Recent"
+msgstr "Najnowsze"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:81
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:196
+msgid "Tags"
+msgstr "Tagi"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:86
+msgid "Advanced Options"
+msgstr "Opcje zaawansowane"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:92
+msgid "Allow pagination"
+msgstr "Umożliwiają podział na strony"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:99
+msgid "Number of posts to show:"
+msgstr "Liczba postów do pokazania:"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:108
+msgid "Show post thumbnails"
+msgstr "Pokaż miniatury postów"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:115
+msgid "Show post date"
+msgstr "Pokaż datę postu"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:122
+msgid "Show number of comments"
+msgstr "Pokaż liczbę komentarzy"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:129
+msgid "Show post excerpt"
+msgstr "Pokaż wiadomość - fragment"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:135
+msgid "Excerpt length (words):"
+msgstr "Długość fragmentu (słowa):"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:148
+msgid "Number of comments on Comments Tab:"
+msgstr "Ilość komentarzy w zakładce Komentarze:"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:157
+msgid "Show avatars on Comments Tab"
+msgstr "Pokaż awatary na zakładce Komentarze"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "No Comment"
+msgstr "Brak komentarzy"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "One Comment"
+msgstr "Jeden komentarz"
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:426
+msgid "No comments yet."
+msgstr "Brak komentarzy."
+
+# @ maryanne
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:449
+msgid "No tags created."
+msgstr "Brak tagów."

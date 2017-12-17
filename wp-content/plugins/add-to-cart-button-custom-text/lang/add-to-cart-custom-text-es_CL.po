@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-29 10:05+0000\n"
+"PO-Revision-Date: 2017-05-29 10:06+0000\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Enrique Ros <enrique@enriquejros.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Plural-Forms: nplurals=2; plural=n != 1"
+
+#. Description of the plugin
+msgid ""
+"Allows to customize the \"Add to Cart\" button text in WooCommerce by "
+"product type in both archive and single product pages, including bookable "
+"products."
+msgstr ""
+"Permite personalizar el texto del botón \"Añadir al carrito\" por tipo de "
+"producto tanto en las páginas de archivo como en las de producto, incluyendo "
+"los productos reservables. <a target=\"_blank\" href=\"http://www."
+"enriquejros.com/downloads/\">Otros plugins útiles para WordPress y "
+"WooCommerce</a>."
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/add-to-cart-button-custom-text/"
+msgstr "https://wordpress.org/plugins/add-to-cart-button-custom-text/"
+
+#. Author of the plugin
+msgid "Enrique J. Ros"
+msgstr "Enrique J. Ros"
+
+#. Author URI of the plugin
+msgid "https://www.enriquejros.com/"
+msgstr "https://www.enriquejros.com/"
+
+#: add-to-cart-custom-text.php:152
+msgid "Add to Cart Custom Text options"
+msgstr "Opciones de Add to Cart Custom Text"
+
+#: add-to-cart-custom-text.php:165
+msgid "Button text in single product pages"
+msgstr "Texto del bot&oacute;n en las p&aacute;ginas de producto"
+
+#: add-to-cart-custom-text.php:167
+#, php-format
+msgid "Custom text for the %s button in single product pages by product type"
+msgstr ""
+"Texto personalizado para el botón %s en las páginas de producto por tipo"
+
+#: add-to-cart-custom-text.php:204
+msgid "Button text in archive pages"
+msgstr "Texto del bot&oacute;n en p&aacute;ginas de archivo"
+
+#: add-to-cart-custom-text.php:206
+#, php-format
+msgid ""
+"Custom text for the %s button in archive pages (shop, category, tags...) by "
+"product type"
+msgstr ""
+"Texto personalizado para el botón %s en las páginas de archivo (tienda, "
+"categoría, etiquetas...) por tipo de producto"
+
+#: add-to-cart-custom-text.php:314
+msgid "Support"
+msgstr "Soporte"
+
+#: add-to-cart-custom-text.php:315
+msgid "Donate"
+msgstr "Dona"
+
+#. Name of the plugin
+msgid "Add to Cart Button Custom Text"
+msgstr "Add to Cart Button Custom Text"

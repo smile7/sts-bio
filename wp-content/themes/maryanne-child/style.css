@@ -1,0 +1,307 @@
+/*
+ Theme Name:   Maryanne Child
+ Theme URI:    http://bionia.bg/
+ Description:  Maryanne Child Theme
+ Author:       Silvena Miteva
+ Author URI:   http://example.com/
+ Template:     maryanne
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  maryanne-child
+*/
+
+/* LOGO 
+.header-logo {
+    position: absolute;
+    top: 32px;
+    left: 0;
+}
+
+.site-headline-box {
+    position: static;
+}
+
+.admin-bar .site-headline-box {
+    margin-top: 142px;
+}
+
+ END */
+/*
+.home #container #main-content { margin: 25px -15px 0; }
+
+.home #container #main-content { max-width: 100%; }
+*/
+.home .js-masonry { width: 90%; }
+
+.home #content { margin: 0 0 10px 47px; }
+
+#wrapper.home .content-grid { width: 100%; }
+
+.su-linkbox, .woocommerce aside, .woocommerce-page aside { display: none; }
+
+/* NEW HEADER */
+
+#container { padding: 0; }
+
+#wrapper #left-sidebar { margin-top: 136px; }
+
+.admin-bar .site-headline-box { margin-top: -105px; }
+
+#container #main-content { 
+    margin-left: 250px;
+    margin-top: 130px;
+    max-width: 76%;
+}
+
+#headline-wrapper {
+    background: #689767;
+    position: fixed;
+    padding-left: 250px;
+    overflow: hidden;
+    max-height: 24px;
+    z-index: 20;
+}
+
+#breadcrumb-navigation {
+    margin-top: 71px;
+    z-index: 20;
+    position: fixed;
+    padding-left: 250px;
+}
+
+.site-description {
+    text-align: center;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 2px 0 0;
+    color: #348232;
+}
+
+.home #headline-wrapper { border-bottom: 34px solid #efefef}
+
+/* .home #container #main-content { max-width: 83.3%; } */
+
+/* END NEW HEADER */
+
+.content-headline { 
+    display: inline-block;
+    max-width: 34%;
+    margin-top: -3px;
+    font-size: 24px;
+}
+
+.menu-headermenu-container {
+    display: inline-block;
+    max-width: 81%;
+    position: absolute;
+    right: 20.5%;
+}
+
+#menu-headermenu li {
+    display: inline;
+    list-style: none;
+    padding: 0px;
+}
+
+#menu-headermenu li a {
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 0 20px;
+}
+
+.woocommerce #content {
+    width: 98%;
+}
+
+#menu-headermenu li a:hover {
+    background-color: #222;
+    transition: all 1s;
+}
+
+.footer-signature {
+    background: #3D7A00;
+}
+
+.footer-signature .footer-signature-content {
+    margin: 0 auto;
+}
+
+/* PRODUCT LISTING */
+
+.woocommerce ul.products li.product:hover, .woocommerce-page ul.products li.product:hover {
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    -webkit-transition: box-shadow 0.5s;
+    transition: box-shadow 0.5s;
+    margin-bottom: 4em;
+}
+
+.product-text-box {
+    background: #689767;
+    min-height: 90px;
+}
+
+.woocommerce ul.products li.product .price del {
+    display: inline;
+    margin-right: 10px;
+}
+
+ul.products li.product .image-box {
+    height: 441px;
+    padding-bottom: 1.5em;
+    position: relative;
+    border: 1px dotted #689767;
+    border-bottom: none;
+}
+
+.woocommerce ul.products li.product a img {
+    width: 100% !important;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.woocommerce ul.products li.product .button { margin-top: 0; }
+
+.woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3 {
+    font-size: 1.3em;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.woocommerce ul.products li.product .price {
+    font-size: 1.2em;
+    text-align: center;
+    color: #fff;
+}
+
+.woocommerce ul.products li.product .button {
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #fff;
+    background: #204F1E;
+}
+
+.woocommerce nav.woocommerce-pagination ul li { font-size: 1.2em; }
+
+.woocommerce nav.woocommerce-pagination ul li span, .woocommerce nav.woocommerce-pagination ul li a { padding: 10px; }
+
+/* END PRODUCT LISTING */
+
+/* MEDIA QUERIES */
+
+@media screen and (min-width: 1300px) {
+    /* #container #main-content { max-width: 90%; } */
+    #content { width: 67%; }
+}
+
+/* END OF MEDIA QUERIES */
+
+.navigation-headline { display: none; }
+
+.navigation .navigation-links {
+    text-align: center;
+}
+
+.navigation .navigation-links a, .page-numbers.current {
+    font-size: 20px;
+    padding: 5px;
+}
+
+#content .entry-content p { text-align: justify; }
+
+#content .attachment-post-thumbnail { 
+    width: 100%; 
+    /* height: 360px; */
+}
+
+input[type="submit"], input[type="reset"], #searchform .searchform-wrapper .send {
+    background-color: #3D7A00; 
+}
+
+.sidebar-widget #searchform { margin-top: 3px; }
+
+.sidebar-widget a, a { color: #3D7A00; }
+
+
+/* NEW DESIGN */
+
+body { background: url("bg.jpeg") fixed; }
+
+#content h1 { margin: -7px 0 19px; }
+
+#wrapper #left-sidebar { 
+    margin-top: 133px; /* -25px; */ 
+    background-color: inherit; 
+}
+
+#content { width: 75%; }
+
+.site-description {
+    margin: 2px 0 0;
+    font-size: 16px;
+}
+
+.menu-box ul { border-top: none; }
+
+.menu-box ul li {
+    border-bottom: none;
+    padding: 0 15px;
+    margin-left: -16px;
+}
+
+.menu-box ul li a {
+    border-bottom: 1px solid lightcyan;
+    padding: 4px 0;
+}
+
+#container #headline-wrapper {
+    background: #3D7A00;
+    border-bottom: 40px solid #efefef;
+}
+
+.home .js-masonry { width: 100%; }
+
+#breadcrumb-navigation {
+    background: inherit;
+    border-bottom: none;
+    padding: 7px 0 7px 250px;
+}
+
+#menu-headermenu li a {
+    border-right: 1px solid lightcyan;
+    padding-right: 20px;
+    font-size: 18px;
+}
+
+.menu-box ul a, .menu-box ul a:visited {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+body #container #main-content { 
+    background: white; 
+    max-width: 76.8%; 
+    background: white;
+    margin-top: 104px;
+    padding-top: 34px;
+    min-height: 800px;
+}
+
+#wrapper.home .content-grid { width: 96%; }
+
+.theme-background-color { background-color: #5B8219; }
+
+#sidebar { padding: 0 15px 0 0; }
+
+/* END OF NEW DESIGN */
