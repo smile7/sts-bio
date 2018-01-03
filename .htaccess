@@ -19,5 +19,33 @@ RedirectMatch permanent recepti/рецепти(.*) http://bionia.bg/bionia/recep
 RedirectMatch permanent /тест /recepti-sus-shipka
 RedirectMatch permanent /биониа-хранителна-мая /bionia-hranitelna-maya
 RedirectMatch permanent /биониа-шипка /bionia-shipka
+RedirectMatch permanent /продуктите-на-растителна-основа-и-хра /produktite-na-raastitelna-osnova-i-hranite-podpomagashti
+RedirectMatch permanent /лечение-на-акне-с-бирена-мая /lechenie-na-akne-s-birena-maya
+RedirectMatch permanent /каква-е-разликата-между-бирена-и-храни /kakva-e-razlikata-mejdu-birena-i-hranitelna-maya
+RedirectMatch permanent /революция-в-храненето-и-еволюция-в-мис /revoliutsia-v-hraneneto-i-evoliutsia-v-misleneto
+RedirectMatch permanent /какво-ядат-децата-ни /kakvo-yadat-detsata-ni
+RedirectMatch permanent /биониа-бирена-мая-за-здраве-и-красота-п /bionia-v-podkrepa-na-bulgarskite-traditsii
+RedirectMatch permanent /сладко-подходящо-за-деца-и-набавя-калц /sladko-podhodyashto-za-detsa
+RedirectMatch permanent /простички-съвети-за-лечение-с-природа /bionia-shipka
+RedirectMatch permanent /любовта-на-дете-най-доброто-лечение /liubovta-na-dete-instinskoto-lechenie
+RedirectMatch permanent /сезонът-на-най-силния-антиоксидант-в-б /sezonut-na-nai-silnia-antioksidant--v-bulgaria
+RedirectMatch permanent /спри-акнето-за-30-дни /spri-akneto-za-30-dni
+RedirectMatch permanent /природно-лечение-на-диария-с-шипка-ц /prirodno-lechenie-na-diaria-s-shipka
+RedirectMatch permanent /полезната-алтернатива-на-солта-хран /poleznata-alternativa-na-solta
+RedirectMatch permanent /аронията-природно-средство-за-укрепв /aroniata-prirodno-sredstvo-pri-problemi-s-kruvonosnata-sistema
+RedirectMatch permanent /силна-имунната-система-какво-е-това /silna-imunna-sistema-kakvo-e-tova
+RedirectMatch permanent /защо-позволяваме-да-ни-разболяват-или /zashto-pozvolyavame-da-ni-razbolyavat
+RedirectMatch permanent /за-всяка-болка-има-шипка /za-vsyaka-bolka-ima-shipka
+RedirectMatch permanent /пътят-на-биониа-2014-история-по-дунав-ча /putyat-na-bionia-2014
+RedirectMatch permanent /витамин-b12-бирената-мая-и-здравословно /vitamin-b12-birenata-maya-i-zdravoslovnoto-hranene
+RedirectMatch permanent /основни-принципи-на-природното-хране /osnovni-printsipi-na-prirodnoto-hranene
+RedirectMatch permanent /биониа-бирена-мая-и-проблемна-кожа /bionia-birena-maya-i-problemna-koja
+RedirectMatch permanent /биониа-бирена-мая-на-люспи-и-стомашно-ч /bionia-birena-maya-na-liuspi-i-stomashno-chrevnia-trakt
+RedirectMatch permanent /пътят-на-биониа-2013-част-1 /putyat-na-bionia-2013-chast-1
+RedirectMatch permanent /пътят-на-биониа-2013-част-2 /putyat-na-bionia-2013-chast-2
+RedirectMatch permanent /пътят-на-биониа-2013-част-3 /putyat-na-bionia-2013-chast-3
+RedirectMatch permanent /бирена-мая /birena-maya
+RedirectMatch permanent /рецепти /retsepti
+RedirectMatch permanent /здравословни-ползи /zdravoslovni-polzi
 </IfModule>
 

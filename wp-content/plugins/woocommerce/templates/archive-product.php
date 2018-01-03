@@ -80,7 +80,7 @@ get_header( 'shop' ); ?>
 						 */
 						do_action( 'woocommerce_shop_loop' );
 					?>
-
+                    
 					<?php wc_get_template_part( 'content', 'product' ); ?>
 
 				<?php endwhile; // end of the loop. ?>

@@ -7,13 +7,14 @@
 get_header(); ?>
 <?php if ( have_posts() ) : ?>
 <?php the_post(); ?>
-  <div id="headline-wrapper">
-    <h1 class="content-headline"><?php printf( __( 'Author Archive: %s', 'maryanne' ), '<span class="vcard">' . get_the_author() . '</span>' ); ?></h1>
+  <div id="headline-wrapper" class="menu-box">
+    <h1 class="content-headline"><?php //printf( __( 'Author Archive: %s', 'maryanne' ), '<span class="vcard">' . get_the_author() . '</span>' ); ?></h1>
     <?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
   </div>  
 <?php maryanne_get_breadcrumb(); ?>  
   <div id="main-content">    
     <div id="content"<?php if ($maryanne_options_db['maryanne_post_entry_format'] != 'Standard') { ?> class="content-grid"<?php } ?>>
+    <h1><?php printf( __( ': %s', 'maryanne' ), '<span class="vcard">' . get_the_author() . '</span>' ); ?></h1>
 <?php rewind_posts(); ?>
 <?php if ( get_the_author_meta( 'description' ) ) : ?>
     <div class="archive-meta">

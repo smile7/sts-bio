@@ -6,7 +6,7 @@
 */
 get_header(); ?>
 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-<div id="headline-wrapper">
+<div id="headline-wrapper" class="menu-box">
     <h1 class="content-headline"><?php //the_title(); ?></h1>
     <?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
 </div>

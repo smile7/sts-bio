@@ -6,13 +6,14 @@
 */
 get_header(); ?>
 <?php if ( have_posts() ) : ?>
-  <div id="headline-wrapper">
-    <h1 class="content-headline"><?php single_cat_title(); ?></h1>
+  <div id="headline-wrapper" class="menu-box">
+    <h1 class="content-headline"><?php //single_cat_title(); ?></h1>
     <?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
   </div>  
 <?php maryanne_get_breadcrumb(); ?>  
   <div id="main-content">    
-    <div id="content"<?php if ($maryanne_options_db['maryanne_post_entry_format'] != 'Standard') { ?> class="content-grid"<?php } ?>>    
+    <div id="content"<?php if ($maryanne_options_db['maryanne_post_entry_format'] != 'Standard') { ?> class="content-grid"<?php } ?>>
+    <h1><?php single_cat_title(); ?></h1>    
 <?php if ( category_description() ) : ?>
       <div class="archive-meta"><?php echo category_description(); ?></div>
 <?php endif; ?>

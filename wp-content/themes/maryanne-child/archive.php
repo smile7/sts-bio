@@ -6,7 +6,7 @@
 */
 get_header(); ?>
 <?php if ( have_posts() ) : ?>
-  <div id="headline-wrapper">
+  <div id="headline-wrapper" class="menu-box">
     <h1 class="content-headline"><?php if ( is_day() ) :
 						printf( __( 'Daily Archive: %s', 'maryanne' ), '<span>' . get_the_date() . '</span>' );
 					elseif ( is_month() ) :

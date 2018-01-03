@@ -5,10 +5,11 @@
  * @since MaryAnne 1.0.0
 */
 get_header(); ?>
-<div id="headline-wrapper">
+<div id="headline-wrapper" class="menu-box">
     <h1 class="content-headline"><?php // echo bloginfo(); ?></h1>
     <?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
 </div> 
+<?php echo do_shortcode("[sg_popup id=1]"); ?>
 <?php maryanne_get_breadcrumb(); ?>  
 <div id="main-content">
     <div id="content"<?php if ($maryanne_options_db['maryanne_post_entry_format'] != 'Standard') { ?> class="content-grid"<?php } ?>>    
