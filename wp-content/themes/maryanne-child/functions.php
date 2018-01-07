@@ -38,7 +38,7 @@ function new_loop_shop_per_page( $cols ) {
 
 
 
-// Register and load the widget
+// Register and load the widget for promotions
 function wpb_load_widget() {
     register_widget( 'wpb_widget' );
 }
@@ -54,7 +54,7 @@ class wpb_widget extends WP_Widget {
         'wpb_widget', 
  
         // Widget name will appear in UI
-        __('WPBeginner Widget', 'wpb_widget_domain'), 
+        __('Promotions Widget', 'wpb_widget_domain'), 
  
         // Widget description
         array( 'description' => __( 'Shop promotions widget', 'wpb_widget_domain' ), ) 
@@ -62,7 +62,6 @@ class wpb_widget extends WP_Widget {
     }
  
     // Creating widget front-end
-
     public function widget( $args, $instance ) {
         $title = apply_filters( 'widget_title', $instance['title'] );
  
@@ -73,7 +72,7 @@ class wpb_widget extends WP_Widget {
         }
 
         // This is where you run the code and display the output
-        echo __( 'Hello, World!', 'wpb_widget_domain' );
+        //echo __( 'Hello, World!', 'wpb_widget_domain' );
         echo $args['after_widget'];
     }
 

@@ -37,6 +37,7 @@
 /* COLORS:
     green: #009A00;
     orange: #D65620;
+    lightorange: #ED832F;
 */
 
 .home .js-masonry { width: 90%; }
@@ -53,17 +54,20 @@
 
 .grid-entry .grid-entry-headline a { color: #D65620; }
 
+#mc_embed_signup .button { background-color: #D65620 !important; }
+#mc_embed_signup .button:hover { background-color: #ED832F !important; }
+
 /* NEW HEADER */
 
 #container { padding: 0; }
 
 #wrapper #left-sidebar { 
-    margin-top: 28px; 
+    margin-top: -24px; 
     background-color: inherit;
     z-index: 524;
 }
 
-/*.admin-bar .site-headline-box { margin-top: 0; }*/
+.admin-bar .site-headline-box { margin-top: 52px; }
 
 #container #main-content { 
     margin-left: 250px;
@@ -300,6 +304,34 @@ input[type="submit"], input[type="reset"], #searchform .searchform-wrapper .send
     display: inline-block;
 }
 
+#sidebar .sidebar-headline {
+    font-weight: bold;
+    font-size: 20px;
+    padding: 12px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.custom-promotion {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 4px solid #009A00;
+}
+
+#sidebar .delivery { background: url("delivery.png"); }
+#sidebar .promo { background: url("promo.png"); }
+
+#sidebar .delivery, #sidebar .promo {
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+}
+
 /* NEW DESIGN */
 
 body { background: url("1.jpg") fixed; }
@@ -378,7 +410,7 @@ body #container #main-content {
 
 .theme-background-color { background-color: #5B8219; }
 
-#sidebar { padding: 0 15px 0 0; }
+#sidebar { padding: 0 15px 0 0; width: 25%; }
 
 .menu-headermenu-container, .menu-headermenuen-container {
     display: inline-block;
@@ -470,6 +502,7 @@ body #container #main-content {
     .menu-box ul a, .menu-box ul a:visited { width: 164px; }
     #container #main-content { margin-left: 206px; }
     #menu-headermenu li a, #menu-headermenuen li a { padding: 0 10px; }
+    #wrapper #left-sidebar { margin-top: -18px; }
 }
 
 @media screen and (max-width: 769px) {
